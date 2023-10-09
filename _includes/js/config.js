@@ -12,13 +12,13 @@ var siteConfig = {
     enabledRoutes: ['occurrenceSearch', 'datasetSearch', 'datasetKey', 'publisherSearch', 'publisherKey']
   },
   occurrence: {
-    excludedFilters: ['occurrenceStatus', 'networkKey', 'hostingOrganizationKey', 'protocol', 'publishingCountryCode', 'institutionCode', 'collectionCode'],
-    highlightedFilters: ['taxonKey', 'verbatimScientificName', 'institutionKey', 'collectionKey', 'catalogNumber', 'recordedBy', 'identifiedBy'],
-    defaultTableColumns: ['features', 'institutionKey', 'collectionKey', 'catalogNumber', 'country', 'year', 'recordedBy', 'identifiedBy'],
+    // excludedFilters: ['occurrenceStatus', 'networkKey', 'hostingOrganizationKey', 'protocol', 'publishingCountryCode', 'institutionCode', 'collectionCode'],
+    // highlightedFilters: ['taxonKey',  'catalogNumber', 'recordedBy', 'identifiedBy'],
+    // defaultTableColumns: ['features', 'institutionKey', 'collectionKey', 'catalogNumber', 'country', 'year', 'recordedBy', 'identifiedBy'],
     mapSettings: {
-      lat: 0,
-      lng: 0,
-      zoom: 0
+      lat: -45.373733938343776,
+      lng: -65.8143857581085,
+      zoom: 3.5
     },
     // You probably need help to configure the scope - so just ask
     // for his demo site we only show Fungi (taxonKey=5). It use the predicate structure known from GBIF download API. 
