@@ -5,21 +5,21 @@
 columns:
   - name: Partners
     links:
-    - text: Name of project partner 1
-      href: http://example.com
-    - text: Name of project partner 2
-      href: http://example.com
+    - text: Nombre del socio del proyecto 1
+      href: http://ejemplo.com
+    - text: Nombre del socio del proyecto 2
+      href: http://ejemplo.com
 
   - name: Code
-    description: | # Can be Markdown
-      This project is open source. See `_data/footer.yml` to customize the footer.
+    description: | # Puede ser Markdown
+      Este proyecto es de código abierto. Consulta `_data/footer.yml` para personalizar el pie de página.
   
   - name: Contact
-    description: | # Can be Markdown
-      Social icons links defined in `_config.yml`
-      * Street name
-      * 1234 postal code
-      * Country
+    description: | # Puede ser Markdown
+      Enlaces de iconos sociales definidos en `_config.yml`
+      * Nombre de la calle
+      * Código postal 1234
+      * País
     connectIcons: true
 
   # EXAMPLE

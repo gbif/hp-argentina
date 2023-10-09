@@ -1,16 +1,16 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
-- text: Acerca de
-  href: /acerca-de
-- text: Datos
-  menu:
-  - text: Ocurrencias
+- text: About
+  href: /about
+- text: Data
+  menu: 
+  - text: Occurrences
     href: /occurrence/search
-  - text: Conjuntos de datos
+  - text: Datasets
     href: /dataset/search
-  - text: Editores
+  - text: Publishers
     href: /publisher/search
-  - text: Literatura
+  - text: Literature
     href: /literature/search
-- text: Noticias
-  href: /noticias/
+- text: News
+  href: /en/news/

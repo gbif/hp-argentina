@@ -1,7 +1,7 @@
 
 es:
   label: Spanish
-  archive_permalink: /posts/
+  archive_permalink: /noticias/
 en:
   label: English
-  archive_permalink: /en/posts/
+  archive_permalink: /en/news/

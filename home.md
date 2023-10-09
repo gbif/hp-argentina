@@ -1,27 +1,26 @@
 ---
 lang-ref: home
 layout: home
-title: Template headline spanish
-description: Lesser saw seas own have can’t kind Also to every own yielding there stars one itself lights seed yielding dominion lesser from lesser were divide be their spirit one behold a they’re grass called open.
-background:  "{{ site.data.images.acalypha_gillespieae.src }}"
-imageLicense: "{{ site.data.images.acalypha_gillespieae.caption }}"
-height: 90vh
+klass: home
+title: "El Hub de Biodiversidad de Argentina"
+description: "Explorando la Biodiversidad de Argentina: Descubriendo los Tesoros de la Naturaleza, Un Dato a la Vez"
+background:  "/assets/images/placeholders/placeholder3.png"
+imageLicense: |
+  None for this image, but it would normally go here. Markdown is allowed.
+height: 80vh
 cta:
-  - text: Institutions
-    href: /institution/search
+  - text: Ocurrencias
+    href: /occurrence/search
     isPrimary: true
-  - text: Specimens
-    href: /specimen/search
-  - text: About
-    href: /about
+  - text: Acerca
+    href: /acerca-de
 composition:
   - type: heroImage # the block type
-  - type: stats
-    data: examples.stats
-  - type: split
-    data: examples.herbariumImageExample
   - type: features
     data: examples.couldBeAnyName
+  - type: split
+    data: examples.herbariumImageExample
+  
 permalink: /
 ---
 

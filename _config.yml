@@ -57,7 +57,7 @@ algae:
   # latestPostLimit: 2
   # logo: /assets/images/fungi.svg  # Logo in navbar, will be displayed with 28px height
   # logoAndTitle: false           # include the title next to the logo
-  archive_permalink: /posts/       # Permalink of page using archive.html layout, required when using post categories
+  archive_permalink: /noticias/       # Permalink of page using archive.html layout, required when using post categories
   style:
     # square: false               # Should corners be square or rounded
     colors:
@@ -105,7 +105,7 @@ defaults:
       path: "_posts" # an empty string here means all files in the project
     values:
       layout: "post"
-      permalink: "/post/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
+      permalink: "/noticias/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
   - scope:
       path: "en" # but for anything in the `la` folder we want the language to be latin. 
     values:
@@ -114,5 +114,6 @@ defaults:
       path: "_posts/en" # the default applies to this folder
       type: "posts" # and only for items of type post
     values:
-      permalink: "en/posts/:year/:slug/"
+      permalink: "en/news/:year/:slug/"
       layout: "post"
+      lang: en

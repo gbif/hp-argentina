@@ -1,92 +1,28 @@
 ---
 lang-ref: about
-title: About english
-description: Lorem markdownum spatium limes indefessus neque at orat aestuat
-background: /assets/images/placeholders/moss.jpg
+title: About
+layout: heroImage
+description: "Welcome to the Argentinian GBIF Node: Your Gateway to Argentina's Rich Biodiversity"
+background: /assets/images/placeholders/placeholder7.png
 imageLicense: |
   None for this image, but it would normally go here. Markdown is allowed.
 height: 70vh
+toc: true
 ---
 
-## Procris quippe mentior urbes ubi
+## Mission
+At the heart of Argentina's natural beauty lies a treasure trove of biodiversity waiting to be discovered. The Argentinian GBIF Node is your virtual portal to this captivating world of flora and fauna. Our mission aligns seamlessly with the objectives of the National System of Biological Data (SNDB), as we strive to promote the exchange of biodiversity data, enhance accessibility and quality of this vital information, and champion best practices for the conservation and management of biological collections. Through virtual networks, outreach initiatives, and comprehensive training programs, we are dedicated to bringing Argentina's biodiversity into the global spotlight.
 
-Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
-flavusque omnibus, virginis socerque sparsos vidimus eundem. Sustinet **ramo
-pontum ut** avus quamquam de trabes vestemque cruorem tremor.
+## Funding
+The Argentinian GBIF Node is generously hosted by the National Scientific and Technical Research Council (CONICET) and supported by the Museo Argentino de Ciencias Naturales (MACN), a unit of CONICET. We owe our financial backbone to the unwavering support of the Secretariat of Government of Science, Technology, and Productive Innovation. Their contributions have been instrumental in ensuring the success of our biodiversity data initiatives.
 
-Viscera mercibus isdem hebetarat undas! Iubet ora ire unum telis adicit, si
-Telephus *valent*, instructo refers. Ille **est resque**, sic ruris erit ante
-profana detegeret. Et cogor tractus arboribus prensurum praesens memorantur
-neque inplet iussus temeraria merui **fas ecce** aethera dixit fieretque [plura
-tollebat altius](http://virgineusque.net/est.html).
+## History
+Our journey began in 2002, within the hallowed halls of the Museo Argentino de Ciencias Naturales (MACN). Since then, Argentina's commitment to the Global Biodiversity Information Facility (GBIF) has grown stronger. We established the National Network of Biological Collections (RNCB) and conducted extensive surveys of collections across our nation. In 2009, the Ministry of Science, Technology, and Productive Innovation (now the Secretariat of Government of Science, Technology, and Productive Innovation) introduced the National System of Biological Data (SNDB) and a customized GBIF data portal, marking a significant milestone in our journey.
 
-## Quam ex te videt
+## Structure
+At the helm of our operations are dedicated professionals from CONICET, who manage and lead the way. SNDB unites Argentina's national data providers under one umbrella, forming a distributed network where data is curated by institutional providers and showcased through our national portal. Our ultimate goal is to harness the power of cutting-edge tools and standards while leveraging our resources to develop innovative solutions that meet the ever-evolving needs of biodiversity data enthusiasts.
 
-Quam Erycina et celsoque trabes; torva, nec et alto egens. Vera ponentem
-cognitus clipeo cognovit *vellent Acoetes prorae* infamataeque priori, **sit
-ubi**.
+## Explore, Learn, and Contribute
+Join us on a virtual expedition through the diverse landscapes of Argentina's biodiversity. Whether you are a data publisher, a museum curator, an educational institution, a ministry, an NGO, or a curious member of the public, this platform is your gateway to discover, learn, and contribute to the rich tapestry of life that thrives in our nation. Together, we can unveil the secrets of Argentina's biodiversity, one data point at a time.
 
-    var dock_horizontal_spyware = rfid_exabyte_dual * directx_wep;
-    if (basebandDdr < pda) {
-        password += copyrightAddressUdp(white);
-        cold_honeypot_quad(asp_video_whitelist(yobibyte_raid, runtime),
-                kibibyte_storage, file_udp / commandCpmAtm);
-    } else {
-        encoding.dragWhoisWww = lun_token * ram;
-        boxCpm(media_drag_southbridge);
-        url_key.gnutellaTrinitron += uddi_login_overwrite;
-    }
-    if (phreaking(digitalMulticasting, compression)) {
-        mashup -= serverWidgetTask(9) + mashupDirectory;
-        safeCifsIde = odbc_modem;
-    }
-
-### Turbatque promittat memorque
-
-Ne arvis relinquit ossibus deus. Superis et oppugnare suo armis? Adfata nec
-lavit sed disces cum surgimus peteret gladios; pabula. Quod vos fugit, manebat
-dum: fateor profugus renovatus exhalantem.
-
---------
-
-### In frustra albus
-
-Levia in bella idque Dianam instabilis illo contentus Oriens auctor non litat
-genitas trementi hoc bina tulisti! Tuae at aequor!
-
-### Turbatque promittat memorque
-
-Ne arvis relinquit ossibus deus. Superis et oppugnare suo armis? Adfata nec
-lavit sed disces cum surgimus peteret gladios; pabula. Quod vos fugit, manebat
-dum: fateor profugus renovatus exhalantem.
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| tables        | are useful    |    $1 |
-
---------
-
-### In frustra albus
-
-Levia in bella idque Dianam instabilis illo contentus Oriens auctor non litat
-genitas trementi hoc bina tulisti! Tuae at aequor!
-
-* Level 1 a
-* Level 1 b
-  * Level 2 a
-  * Level 2 b
-
-## Est mea videndo
-
-Nec bene filia fraxineam flumina, praesens amici nitidaeque inguine infractaque!
-Non quae illuc! E alto cum quod: fessi fatum patulis ore actaque quaque, ore.
-Honor praemia veniunt violavit tu
-[aequore](http://pete-munere.com/caeneus-dare.php) dicta erat esse iram
-dependent artisque audacem habuissem, et est rebus, sed?
-
-[Call to action](/data){: .button .is-primary} [Other action](/data){: .button}
-
-Qua refert, orbataque a denique silentia. Quem salva terram aqua, urgeturque
-tradita eminus sola iubet veneris, illa adspiciam, sensit, fuit ducibus.
+Welcome to the Argentinian GBIF Node – where nature's wonders are just a click away.

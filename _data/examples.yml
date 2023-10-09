@@ -1,70 +1,51 @@
-stats:
-  klass: contentTypesStat
-  # title: "type: stats"
-  # description: |      # required
-  #  See [`_data/compose/examples.yml`](https://github.com/gbif/jekyll-theme-algae/blob/master/_data/compose/examples.yml#L72) for the content structure.
-  features:
-    - title: <span data-ajax-url="https://api.gbif.org/v1/grscicoll/institution?displayOnNHCPortal=true">642</span>
-      description: Institutions
-      background: /assets/images/placeholders/institutions_small.jpg
-      href: /institution/search
-    - title: <span data-ajax-url="https://api.gbif.org/v1/grscicoll/collection?&displayOnNHCPortal=true">45</span>
-      description: Collections
-      background: /assets/images/placeholders/collections_small.jpg
-      href: /collection/search
-    - title: "54 million"
-      description: Digitized specimens
-      background: /assets/images/placeholders/specimen.png
-
 couldBeAnyName:
   title: Virginis socerque
   description: |
-    Forth beginning form dry thing. Form seed void likeness darkness light. Can’t created third upon spirit fruitful hath likeness their. Replenish saw female night they’re you blessed all greater cattle, grass god fifth you’re. Above wherein replenish face multiply male every. Own hath lights under creeping.
+    Cuarta forma que comienza de una cosa seca. Forma semilla vacía semejanza oscuridad luz. No se puede crear un tercero sobre un espíritu fructífero que tenga semejanza con ellos. Llena de ver que la noche de las hembras, bendices a todos los ganados, a la hierba de Dios en quinto lugar. Sobre qué donde reponer la cara que multiplica al hombre cada vez. Propio tiene luces bajo el arrastre.
   features:
-    - title: Abundantly light years # required
-      description: |      # required
-        Also, in [for from](/about) winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years.
-      href: /about
-      # img required
-      background: /assets/images/placeholders/blocks2.png
-      imageLicense: None for this image, but normally you would provide one here
-      # categories: [drawings] # optional
-    - title: Fly moving land # required
-      description: |      # required
-        Also, in [for from](/about) winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years.
-      href: /about
-      background: /assets/images/placeholders/blocks2.png
-      imageLicense: None for this image, but normally you would provide one here
-    - title: Fruitful replenish # required
-      description: |      # required
-        Also, in [for from](/about) winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years.
-      href: /about
-      background: /assets/images/placeholders/blocks2.png
-      imageLicense: None for this image, but normally you would provide one here
-    - title: Land man dry # required
-      description: |      # required
-        Also, in [for from](/about) winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years.
-      href: /about
-      background: /assets/images/placeholders/blocks2.png
-      imageLicense: None for this image, but normally you would provide one here
-    - title: Abundantly light years # required
-      description: |      # required
-        Also, in [for from](/about) winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years.
-      href: /about
-      background: /assets/images/placeholders/blocks2.png
-      imageLicense: None for this image, but normally you would provide one here
+    - title: Abundantemente años luz # requerido
+      description: |      # requerido
+        Además, en [por desde](/acerca-de) no vuela el mar que trae profundamente abundante luz verde. Ellos viven años verdes.
+      href: /acerca-de
+      # img requerido
+      background: /assets/images/placeholders/placeholder1.png
+      imageLicense: Ninguna para esta imagen, pero normalmente proporcionaría una aquí
+      # categorías: [dibujos] # opcional
+    - title: Vuela moviéndose en la tierra # requerido
+      description: |      # requerido
+        Además, en [por desde](/acerca-de) no vuela el mar que trae profundamente abundante luz verde. Ellos viven años verdes.
+      href: /acerca-de
+      background: /assets/images/placeholders/placeholder2.png
+      imageLicense: Ninguna para esta imagen, pero normalmente proporcionaría una aquí
+    - title: Fructífero reponer # requerido
+      description: |      # requerido
+        Además, en [por desde](/acerca-de) no vuela el mar que trae profundamente abundante luz verde. Ellos viven años verdes.
+      href: /acerca-de
+      background: /assets/images/placeholders/placeholder7.png
+      imageLicense: Ninguna para esta imagen, pero normalmente proporcionaría una aquí
+    - title: Tierra hombre seco # requerido
+      description: |      # requerido
+        Además, en [por desde](/acerca-de) no vuela el mar que trae profundamente abundante luz verde. Ellos viven años verdes.
+      href: /acerca-de
+      background: /assets/images/placeholders/placeholder4.png
+      imageLicense: Ninguna para esta imagen, pero normalmente proporcionaría una aquí
+    - title: Abundantemente años luz # requerido
+      description: |      # requerido
+        Además, en [por desde](/acerca-de) no vuela el mar que trae profundamente abundante luz verde. Ellos viven años verdes.
+      href: /acerca-de
+      background: /assets/images/placeholders/placeholder5.png
+      imageLicense: Ninguna para esta imagen, pero normalmente proporcionaría una aquí
 
 herbariumImageExample:
   reverse: false
-  title: "Likeness darkness light"
-  description: |      # required
-    Forth beginning form dry thing. Form seed void likeness darkness light. Can't created third upon spirit fruitful hath likeness their. Replenish saw female night they're you blessed all greater cattle, grass god fifth you're. Above wherein replenish face multiply male every. Own hath lights under creeping.
-  # img required
-  background: https://data.nhm.ac.uk/media/d9850154-9e45-426c-8712-d030da3c1c00
-  imageLicense: |
-    *Polyptychodon* Owen, 1841 collected in United Kingdom of Great Britain and Northern Ireland. [See full record](/specimen/search?entity=1057252794&view=TABLE) (licensed under http://creativecommons.org/licenses/by/4.0/)
-  href: /about
+  title: "Semejanza oscuridad luz"
+  description: |      # requerido
+    Cuarta forma que comienza de una cosa seca. Forma semilla vacía semejanza oscuridad luz. No se puede crear un tercero sobre un espíritu fructífero que tenga semejanza con ellos. Llena de ver que la noche de las hembras, bendices a todos los ganados, a la hierba de Dios en quinto lugar. Sobre qué donde reponer la cara que multiplica al hombre cada vez. Propio tiene luces bajo el arrastre.
+  # img requerido
+  background: /assets/images/placeholders/placeholder1.png
+  imageLicense: Ninguna para esta imagen, pero normalmente proporcionaría una aquí
+  href: /acerca-de
   cta:
-  - text: Download report
-    href: http://example.com
+  - text: Descargar informe
+    href: http://ejemplo.com
     isPrimary: true

@@ -1,3 +1,38 @@
+.home .floatingHero + section {
+  margin-top: -10rem;
+  padding-top: 14rem;
+}
+
+.home .features {
+  background: white;
+  border: none;
+}
+
+.floatingHero .feature-img {
+  clip-path: ellipse(185% 100% at 50% 0%);
+}
+
+.feature {
+  border-radius: $box-radius;
+  border: none;
+}
+
+.splitBanner {
+  max-width: 1200px;
+  border: none;
+  .feature-img {
+    border-radius: $box-radius;
+    overflow: hidden;
+  }
+}
+
+.boxHero .feature-img-license, .floatingHero .feature-img-license{
+  top: 0;
+  bottom: auto;
+  right: 0;
+  left: auto;
+}
+
 .contentTypesStat {
   .statistics-cards {
     justify-content: space-between;
