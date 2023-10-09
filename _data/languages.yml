@@ -1,3 +1,7 @@
+
+es:
+  label: Spanish
+  archive_permalink: /posts/
 en:
   label: English
-  icon:  # optional
+  archive_permalink: /en/posts/
