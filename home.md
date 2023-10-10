@@ -7,7 +7,7 @@ description: "Explorando la Biodiversidad de Argentina: Descubriendo los Tesoros
 background:  /assets/images/placeholders/bird.jpeg # "/assets/images/placeholders/placeholder3.png"
 imageLicense: |
   Molothrus bonariensis (Gmelin, 1789) observed in Argentina by Nicolas Mazzini (licensed under http://creativecommons.org/licenses/by-nc/4.0/)
-height: 80vh
+height: 50vh
 cta:
   - text: Ocurrencias
     href: /occurrence/search
