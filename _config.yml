@@ -54,7 +54,7 @@ siteMeasurements:
 
 algae:
   rootLang: es
-  # latestPostLimit: 2
+  latestPostLimit: 3
   # logo: /assets/images/fungi.svg  # Logo in navbar, will be displayed with 28px height
   # logoAndTitle: false           # include the title next to the logo
   archive_permalink: /noticias/       # Permalink of page using archive.html layout, required when using post categories

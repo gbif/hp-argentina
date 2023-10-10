@@ -4,9 +4,9 @@ layout: home
 klass: home
 title: Argentina's Biodiversity Hub
 description: "Exploring Argentina's Biodiversity: Unveiling Nature's Treasures, One Data Point at a Time"
-background:  "/assets/images/placeholders/placeholder3.png"
+background:  /assets/images/placeholders/bird.jpeg # "/assets/images/placeholders/placeholder3.png"
 imageLicense: |
-  None for this image, but it would normally go here. Markdown is allowed.
+  Molothrus bonariensis (Gmelin, 1789) observed in Argentina by Nicolas Mazzini (licensed under http://creativecommons.org/licenses/by-nc/4.0/)
 height: 80vh
 cta:
   - text: Occurrences
@@ -20,6 +20,9 @@ composition:
     data: en.examples.couldBeAnyName
   - type: split
     data: en.examples.herbariumImageExample
+  - type: latestPosts
+    inlineData: 
+      title: "Latest news"
 permalink: /en
 ---
 
