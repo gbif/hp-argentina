@@ -4,7 +4,7 @@ layout: home
 klass: home
 title: "El Hub de Biodiversidad de Argentina"
 description: "Explorando la Biodiversidad de Argentina: Descubriendo los Tesoros de la Naturaleza, Un Dato a la Vez"
-background:  [/assets/images/placeholders/bird.jpeg # "/assets/images/placeholders/placeholder3.png"][(https://www.argentinat.org/observations/145754559)](https://www.argentinat.org/photos/250426250?size=original)
+background:  https://www.argentinat.org/photos/250426250?size=original
 imageLicense: |
   Molothrus bonariensis (Gmelin, 1789) observed in Argentina by Nicolas Mazzini (licensed under http://creativecommons.org/licenses/by-nc/4.0/)
 height: 50vh
