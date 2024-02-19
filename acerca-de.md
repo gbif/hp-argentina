@@ -3,9 +3,9 @@ lang-ref: about
 title: Acerca
 layout: heroImage
 description: "Bienvenidos al Nodo Argentino de GBIF: el Portal a la Biodiversidad de Argentina"
-background: /assets/images/placeholders/placeholder7.png
+background:"/assets/images/placeholders/placeholder3.png"
 imageLicense: |
-  None for this image, but it would normally go here. Markdown is allowed.
+  Molothrus bonariensis (Gmelin, 1789) observed in Argentina by Nicolas Mazzini (licensed under http://creativecommons.org/licenses/by-nc/4.0/)
 height: 70vh
 toc: true
 ---
