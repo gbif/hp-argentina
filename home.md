@@ -29,9 +29,7 @@ permalink: /
 
 Edit `/home.md` to change the text.
 
-Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
-flavusque omnibus, virginis socerque sparsos vidimus eundem. Sustinet **ramo
-pontum ut** avus quamquam de trabes vestemque cruorem tremor.
+Este portal de Biodiversidad nuclea y aloja datos de Biodiversidad desde Argentina, ya sean datos provenientes de colecciones de ciencias naturales, reportes de biodiversidad, estudios ecológicos, hasta de iniciativas de ciencia ciudadana. Todos estos datos son de uso abierto, tienen licencias de uso Creative Commons y, si quieren ser reutilizados, tienen un DOI que facilita su correcta citación.
 
 Viscera mercibus isdem hebetarat undas! Iubet ora ire unum telis adicit, si
 Telephus *valent*, instructo refers. Ille **est resque**, sic ruris erit ante
