@@ -3,21 +3,23 @@ lang-ref: about
 title: Acerca
 layout: heroImage
 description: "Bienvenidos al Nodo Argentino de GBIF: el Portal a la Biodiversidad de Argentina"
-background: https://www.argentinat.org/photos/250426250?size=original
+background: assets/images/placeholders/Armeria_hybreasil.jpg
 imageLicense: |
-  Molothrus bonariensis (Gmelin, 1789) observed in Argentina by Nicolas Mazzini (licensed under http://creativecommons.org/licenses/by-nc/4.0/)
+  *Armeria* Willd.,  observeda en Argentina por hybreasil [CC-BY-NC](http://creativecommons.org/licenses/by-nc/4.0/) via [ArgentiNat](https://www.argentinat.org/observations/192394172)
 height: 70vh
 toc: true
 ---
 
 ## Misión
-En el corazón de la belleza natural de Argentina se encuentra un tesoro de biodiversidad esperando ser descubierto. El Nodo Argentino de GBIF es tu portal virtual a este cautivador mundo de flora y fauna. Nuestra misión se alinea perfectamente con los objetivos del Sistema Nacional de Datos Biológicos (SNDB), ya que buscamos promover el intercambio de datos de biodiversidad, mejorar la accesibilidad y calidad de esta información vital, y promover las mejores prácticas para la conservación y gestión de las colecciones biológicas. A través de redes virtuales, iniciativas de divulgación y programas de capacitación integrales, estamos dedicados a llevar la biodiversidad de Argentina a la atención global.
+El Nodo Argentino de GBIF tiene como propósito conformar una base de datos unificada de información biológica, a partir de datos taxonómicos, ecológicos, cartográficos, bibliográficos, etnobiológicos, de uso y de catálogos sobre recursos naturales y otros temas afines.
+Busca promover el intercambio de datos de biodiversidad, mejorar la accesibilidad y calidad de esta información vital, y promover las mejores prácticas para la conservación y gestión de las colecciones biológicas. 
+
 
 ## Financiamiento
-El Nodo Argentino de GBIF es generosamente alojado por el Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET) y respaldado por el Museo Argentino de Ciencias Naturales (MACN), una unidad de CONICET. Debemos nuestro respaldo financiero al apoyo inquebrantable de la Secretaría de Gobierno de Ciencia, Tecnología e Innovación Productiva. Sus contribuciones han sido fundamentales para garantizar el éxito de nuestras iniciativas de datos de biodiversidad.
+El Nodo Argentino de GBIF es alojado por el Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET) y respaldado por el Museo Argentino de Ciencias Naturales "Bernardino Rivadavia" (MACN), unidad ejecutora de CONICET. 
 
 ## Historia
-Nuestro viaje comenzó en 2002, en los salones venerables del Museo Argentino de Ciencias Naturales (MACN). Desde entonces, el compromiso de Argentina con la Global Biodiversity Information Facility (GBIF) ha crecido. Establecimos la Red Nacional de Colecciones Biológicas (RNCB) y llevamos a cabo extensos estudios de las colecciones en todo nuestro país. En 2009, el Ministerio de Ciencia, Tecnología e Innovación Productiva (ahora la Secretaría de Gobierno de Ciencia, Tecnología e Innovación Productiva) introdujo el Sistema Nacional de Datos Biológicos (SNDB) y un portal de datos GBIF personalizado, marcando un hito significativo en nuestro viaje.
+A fines de la década de los 90's, los representantes de las principales colecciones de ciencias naturales, se reunieron y dieron origen a la Red Nacional de Colecciones Biológicas (RNCB). Posteriormente, en el año 2002, en los salones del Museo Argentino de Ciencias Naturales (MACN) se realizaron las primeras reuniones para confirmor el nodo argentino de la Global Biodiversity Information Facility (GBIF). En 2009, el Ministerio de Ciencia, Tecnología e Innovación Productiva introdujo el Sistema Nacional de Datos Biológicos (SNDB).
 
 ## Estructura
 Al frente de nuestras operaciones se encuentran profesionales dedicados de CONICET, que gestionan y lideran el camino. SNDB une a los proveedores de datos nacionales de Argentina bajo un mismo techo, formando una red distribuida en la que los datos son curados por proveedores institucionales y se presentan en nuestro portal nacional. Nuestro objetivo final es aprovechar el poder de las herramientas y estándares de vanguardia, aprovechando nuestros recursos para desarrollar soluciones innovadoras que satisfagan las necesidades siempre cambiantes de los entusiastas de los datos de biodiversidad.
