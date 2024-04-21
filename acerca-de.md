@@ -5,7 +5,7 @@ layout: heroImage
 description: "Bienvenidos al Nodo Argentino de GBIF: el Portal a la Biodiversidad de Argentina"
 background: assets/images/placeholders/Armeria_hybreasil.jpg
 imageLicense: |
-  *Armeria* Willd.,  observeda en Argentina por hybreasil [CC-BY-NC](http://creativecommons.org/licenses/by-nc/4.0/) via [ArgentiNat](https://www.argentinat.org/observations/192394172)
+  *Armeria* Willd., observada en Argentina por hybreasil [CC-BY-NC](http://creativecommons.org/licenses/by-nc/4.0/) via [ArgentiNat](https://www.argentinat.org/observations/192394172)
 height: 70vh
 toc: true
 ---
