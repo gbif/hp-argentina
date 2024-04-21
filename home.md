@@ -15,6 +15,33 @@ cta:
     isPrimary: true
   - text: Acerca
     href: /acerca-de
+
+
+
+
+# Estadisticas
+stats:
+  background: "#edf3f3"
+  features:
+      # API query
+    - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?publishingOrg=862f7ec3-3134-4dce-ab5a-03c81f54bd72"></span>
+      description: Registros de Biodiversidata
+      background: assets/images/flo-icons/circle-square.svg
+      href: datos/buscar/?publishingOrg=862f7ec3-3134-4dce-ab5a-03c81f54bd72&view=MAP
+    - title: <span data-ajax-url="https://api.gbif.org/v1/dataset/search?publishingOrg=862f7ec3-3134-4dce-ab5a-03c81f54bd72"></span>
+      description: Conjuntos de datos
+      background: assets/images/flo-icons/database-square.svg
+      href: datos/buscar/?publishingOrg=862f7ec3-3134-4dce-ab5a-03c81f54bd72&view=DATASETS
+    - title: <span data-ajax-url="https://api.gbif.org/v1/literature/search?publishingOrganizationKey=862f7ec3-3134-4dce-ab5a-03c81f54bd72"></span>
+      description: Publicaciones derivadas
+      background: assets/images/flo-icons/obp-square.svg
+      href: literature/buscar/?publishingOrg=862f7ec3-3134-4dce-ab5a-03c81f54bd72
+    - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?publishingOrg=28eb1a3f-1c15-4a95-931a-4af90ecb574d&amp;country=UY"></span>
+      description: Registros de NaturalistaUY
+      background: assets/images/flo-icons/naturalistauy-square.svg
+      href: datos/buscar/?publishingOrg=28eb1a3f-1c15-4a95-931a-4af90ecb574d&view=MAP
+
+      
 composition:
   - type: heroImage # the block type
   - type: features
@@ -29,7 +56,6 @@ permalink: /
 
 Edit `/home.md` to change the text.
 
-Este portal de Biodiversidad nuclea y aloja datos de Biodiversidad desde Argentina, ya sean datos provenientes de colecciones de ciencias naturales, reportes de biodiversidad, estudios ecológicos, hasta de iniciativas de ciencia ciudadana. Todos estos datos son de uso abierto, tienen licencias de uso Creative Commons y, si quieren ser reutilizados, tienen un DOI que facilita su correcta citación.
 
 Viscera mercibus isdem hebetarat undas! Iubet ora ire unum telis adicit, si
 Telephus *valent*, instructo refers. Ille **est resque**, sic ruris erit ante
