@@ -7,7 +7,7 @@ description: "Datos de Biodiversidad de Argentina, desde Museos a Ciencia Ciudad
 background:  assets/images/placeholders/VenadoDeLasPampas_LucianoMassa.jpeg
 imageLicense: |
   *Ozotoceros bezoarticus* Linneo, 1758 observado en Argentina por Luciano Massa [CC-BY-NC](http://creativecommons.org/licenses/by-nc/4.0/) via [ArgentiNat](https://www.argentinat.org/observations/192394172)
-height: 50vh
+height: 80vh
 cta:
   - text: Ocurrencias
     href: /occurrence/search
