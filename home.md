@@ -10,7 +10,7 @@ imageLicense: |
 height: 80vh
 parallax: true
 cta:
-  - text: Ocurrencias
+  - text: Datos
     href: /occurrence/search
     isPrimary: true
   - text: Acerca
