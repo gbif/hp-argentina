@@ -4,9 +4,9 @@ layout: home
 klass: home
 title: "El Portal de Biodiversidad de Argentina"
 description: "Datos de Biodiversidad de Argentina, desde Museos a Ciencia Ciudadana"
-background:  /assets/images/placeholders/VenadoDeLasPampas_LucianoMass.jpeg # "/assets/images/placeholders/placeholder3.png"
-imageLicense: |
-  Molothrus bonariensis (Gmelin, 1789) observed in Argentina by Nicolas Mazzini (licensed under http://creativecommons.org/licenses/by-nc/4.0/)
+background:  /assets/images/placeholders/VenadoDeLasPampas_LucianoMassa.jpeg # "/assets/images/placeholders/placeholder3.png"
+iageLicense: |
+  Ozotoceros bezoarticus Linneo, 1758 observado en Argentina por Luciano Massa (bajo licencia http://creativecommons.org/licenses/by-nc/4.0/)
 height: 50vh
 cta:
   - text: Ocurrencias
