@@ -2,9 +2,9 @@
 lang-ref: home
 layout: home
 klass: home
-title: "El Hub de Biodiversidad de Argentina"
-description: "Explorando la Biodiversidad de Argentina: Descubriendo los Tesoros de la Naturaleza, Un Dato a la Vez"
-background:  https://www.argentinat.org/photos/250426250?size=original
+title: "El Portal de Biodiversidad de Argentina"
+description: "Datos de Biodiversidad de Argentina, desde Museos a Ciencia Ciudadana"
+background:  /assets/images/placeholders/VenadoDeLasPampas_LucianoMass.jpeg # "/assets/images/placeholders/placeholder3.png"
 imageLicense: |
   Molothrus bonariensis (Gmelin, 1789) observed in Argentina by Nicolas Mazzini (licensed under http://creativecommons.org/licenses/by-nc/4.0/)
 height: 50vh
