@@ -1,6 +1,6 @@
 ---
 lang-ref: about
-title: Acerca
+title: Acerca del Nodo Argentino de GBIF
 layout: heroImage
 description: "Bienvenidos al Nodo Argentino de GBIF: el Portal a la Biodiversidad de Argentina"
 background: assets/images/placeholders/Armeria_hybreasil.jpg
