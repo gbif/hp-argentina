@@ -27,9 +27,9 @@ La visión del Instituto es ser referente en temáticas ambientales de la regió
 
 ## Objetivos generales
 
-La conservación del ambiente, entendiendo por ello su preservación, producción y/o uso sostenible, restauración y/o mejoramiento.
-La resolución de problemáticas ambientales, haciendo hincapié en el funcionamiento y valores de los ecosistemas así como en el impacto de las actividades humanas sobre el mismo.
-La promoción de la salud de los seres vivos, particularmente en relación a la modificación del ambiente.
+* La conservación del ambiente, entendiendo por ello su preservación, producción y/o uso sostenible, restauración y/o mejoramiento.
+* La resolución de problemáticas ambientales, haciendo hincapié en el funcionamiento y valores de los ecosistemas así como en el impacto de las actividades humanas sobre el mismo.
+* La promoción de la salud de los seres vivos, particularmente en relación a la modificación del ambiente.
 
 
 ## Oportunidades de Colaboración
