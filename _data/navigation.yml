@@ -4,11 +4,11 @@
   href: /acerca-de
 - text: Datos
   menu:
-  - text: Ocurrencias
+  - text: Datos
     href: /occurrence/search
   - text: Conjuntos de datos
     href: /dataset/search
-  - text: Editores
+  - text: Publicadores de datos
     href: /publisher/search
   - text: Literatura
     href: /literature/search
