@@ -35,11 +35,15 @@ herbariumImageExample:
   reverse: false
   title: "Nodo Argentino de GBIF"
   description: |      # requerido
-    Los datos presentes en este portal están alojados en el portal de la Global Biodiversity Information Facility, de la cual Argentina es miembro desde el año 2002. Gran cantidad de las principales instituciones de ciencia de Argentina publican sus datos, facilitando el acceso abierto de los mismos. Explora el **[portal] (https://argentina.hp.gbif-staging.org/occurrence/search/)**
+    Los datos presentes en este portal están alojados en el portal de la Global Biodiversity Information Facility, de la cual Argentina es miembro desde el año 2002. Gran cantidad de las principales instituciones de ciencia de Argentina publican sus datos, facilitando el acceso abierto de los mismos. 
   # img requerido
   background: /assets/images/placeholders/ArgentinaGBIF.png
   imageLicense: CC-BY
   href: /acerca-de
+  cta:
+  - text: Instituciones publicadoras
+    href: https://argentina.hp.gbif-staging.org/publisher/search
+    isPrimary: true
   cta:
   - text: Descargar informe de actividad
     href: https://analytics-files.gbif.org/country/AR/GBIF_CountryReport_AR.pdf
