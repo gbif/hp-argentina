@@ -3,35 +3,35 @@ couldBeAnyName:
   description: |
     Este portal agrega datos de Biodiversidad desde Argentina, ya sean datos provenientes de colecciones de ciencias naturales, reportes de biodiversidad, estudios ecológicos, hasta de iniciativas de ciencia ciudadana. Todos estos datos son de uso abierto, tienen licencias de uso Creative Commons y, si quieren ser reutilizados, tienen un DOI que facilita su correcta citación.
   features:
-    - title: Abundantemente años luz # requerido
+    - title: ¿Cuáles datos se agregan?
       description: |      # requerido
-        Además, en [por desde](/acerca-de) no vuela el mar que trae profundamente abundante luz verde. Ellos viven años verdes.
+       Datos desde Argentina y datos alojados en instituciones extranjeras sobre Argentina.
       href: /acerca-de
       # img requerido
       background: /assets/images/placeholders/placeholder1.png
       imageLicense: Ninguna para esta imagen, pero normalmente proporcionaría una aquí
       # categorías: [dibujos] # opcional
-    - title: Vuela moviéndose en la tierra # requerido
+    - title: Tipos de datos # requerido
       description: |      # requerido
-        Además, en [por desde](/acerca-de) no vuela el mar que trae profundamente abundante luz verde. Ellos viven años verdes.
+        Datos provenientes de colecciones de ciencias naturales, reportes de biodiversidad, estudios ecológicos, hasta de iniciativas de ciencia ciudadana. 
       href: /acerca-de
       background: /assets/images/placeholders/placeholder2.png
       imageLicense: Ninguna para esta imagen, pero normalmente proporcionaría una aquí
-    - title: Fructífero reponer # requerido
+    - title: Bibliografía # requerido
       description: |      # requerido
-        Además, en [por desde](/acerca-de) no vuela el mar que trae profundamente abundante luz verde. Ellos viven años verdes.
+        Además de los datos, encontrarás las publicaciones que han reutiliza y citado los datos.
       href: /acerca-de
       background: /assets/images/placeholders/placeholder7.png
       imageLicense: Ninguna para esta imagen, pero normalmente proporcionaría una aquí
-    - title: Tierra hombre seco # requerido
+    - title: Licencias de Creative Commons  # requerido
       description: |      # requerido
-        Además, en [por desde](/acerca-de) no vuela el mar que trae profundamente abundante luz verde. Ellos viven años verdes.
+        Todos los conjuntos de datos tienen una licencia de Creative Commons (CC0, CC-BY o CC-BY-NC) seleccionada por el publicador.
       href: /acerca-de
       background: /assets/images/placeholders/placeholder4.png
       imageLicense: Ninguna para esta imagen, pero normalmente proporcionaría una aquí
-    - title: Abundantemente años luz # requerido
+    - title: Citación # requerido
       description: |      # requerido
-        Además, en [por desde](/acerca-de) no vuela el mar que trae profundamente abundante luz verde. Ellos viven años verdes.
+        Tanto los datos que son consultados como los conjuntos de datos, tienen asignado un Digital Object Identifier (DOI) .
       href: /acerca-de
       background: /assets/images/placeholders/placeholder5.png
       imageLicense: Ninguna para esta imagen, pero normalmente proporcionaría una aquí
