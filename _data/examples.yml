@@ -41,7 +41,7 @@ herbariumImageExample:
   background: /assets/images/placeholders/ArgentinaGBIF.png
   imageLicense: CC-BY
   href: /acerca-de
-   cta:
+  cta:
   - text: Descargar informe de actividad
     href: https://analytics-files.gbif.org/country/AR/GBIF_CountryReport_AR.pdf
     isPrimary: true
