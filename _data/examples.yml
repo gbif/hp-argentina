@@ -8,7 +8,7 @@ couldBeAnyName:
       Datos desde Argentina y datos alojados en instituciones extranjeras sobre Argentina.
       href: /publisher/search
       # img requerido
-      background: /assets/images/placeholders/Donde.jpg
+      background: /assets/images/placeholders/Dnd.jpg
       imageLicense: CC-BY
       # categorías: [dibujos] # opcional
     - title: Tipos de datos # requerido
