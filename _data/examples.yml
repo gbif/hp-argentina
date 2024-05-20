@@ -6,7 +6,7 @@ couldBeAnyName:
     - title: ¿Cuáles datos se agregan?
       description: |      # requerido
        Datos desde Argentina y datos alojados en instituciones extranjeras sobre Argentina.
-        href: https://argentina.hp.gbif-staging.org/occurrence/search/
+        href: /occurrence/search/
       # img requerido
       background: /assets/images/placeholders/donde_solo.jpg
       imageLicense: CC-BY
