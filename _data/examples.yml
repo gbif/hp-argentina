@@ -6,7 +6,6 @@ couldBeAnyName:
     - title: ¿Cuáles datos se agregan?
       description: |      # requerido
        Datos desde Argentina y datos alojados en instituciones extranjeras sobre Argentina.
-      href: /acerca-de
       # img requerido
       background: /assets/images/placeholders/donde_solo.jpg
       imageLicense: CC-BY
@@ -14,25 +13,21 @@ couldBeAnyName:
     - title: Tipos de datos # requerido
       description: |      # requerido
         Datos provenientes de colecciones de ciencias naturales, reportes de biodiversidad, estudios ecológicos, hasta de iniciativas de ciencia ciudadana. 
-      href: /acerca-de
       background: /assets/images/placeholders/museos_solo.jpg
       imageLicense: CC-BY
     - title: Bibliografía # requerido
       description: |      # requerido
         Además de los datos, encontrarás las publicaciones que han reutiliza y citado los datos.
-      href: /acerca-de
       background: //assets/images/placeholders/biblio_solo.jpg
       imageLicense: CC-BY
     - title: Licencias de Creative Commons  # requerido
       description: |      # requerido
         Todos los conjuntos de datos tienen una licencia de Creative Commons (CC0, CC-BY o CC-BY-NC) seleccionada por el publicador.
-      href: /acerca-de
       background: /assets/images/placeholders/cc_solo.jpg.png
       imageLicense: CC-BY
     - title: Citación # requerido
       description: |      # requerido
         Tanto los datos que son consultados como los conjuntos de datos, tienen asignado un Digital Object Identifier (DOI) .
-      href: /acerca-de
       background: /assets/images/placeholders/doi_solo.jpg
       imageLicense: CC-BY
 
