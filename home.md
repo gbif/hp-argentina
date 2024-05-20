@@ -13,7 +13,7 @@ cta:
   - text: Datos
     href: /occurrence/search
     isPrimary: true
-  - text: Acerca
+  - text: Acerca de
     href: /acerca-de
 
 
