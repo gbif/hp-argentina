@@ -2,7 +2,7 @@
 
 - text: Acerca de
   href: /acerca-de
-- text: Datos
+- text: Consultar
   menu:
   - text: Datos
     href: /occurrence/search
