@@ -6,9 +6,9 @@ couldBeAnyName:
     - title: ¿Cuáles datos se agregan?
       description: |      # requerido
       Datos desde Argentina y datos alojados en instituciones extranjeras sobre Argentina.
-      href: /occurrence/search
+      href: /publisher/search
       # img requerido
-      background: /assets/images/placeholders/donde_solo.jpg
+      background: /assets/images/placeholders/Donde.jpg
       imageLicense: CC-BY
       # categorías: [dibujos] # opcional
     - title: Tipos de datos # requerido
