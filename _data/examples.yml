@@ -38,14 +38,14 @@ couldBeAnyName:
 
 herbariumImageExample:
   reverse: false
-  title: "Semejanza oscuridad luz"
+  title: "Nodo Argentino de GBIF"
   description: |      # requerido
-    Cuarta forma que comienza de una cosa seca. Forma semilla vacía semejanza oscuridad luz. No se puede crear un tercero sobre un espíritu fructífero que tenga semejanza con ellos. Llena de ver que la noche de las hembras, bendices a todos los ganados, a la hierba de Dios en quinto lugar. Sobre qué donde reponer la cara que multiplica al hombre cada vez. Propio tiene luces bajo el arrastre.
+    Los datos presentes en este portal están alojados en el portal de la Global Biodiversity Information Facility, de la cual Argentina es miembro desde el año 2002. Gran cantidad de las principales instituciones de ciencia de Argentina publican sus datos, facilitando el acceso abierto de los mismos.
   # img requerido
-  background: /assets/images/placeholders/placeholder1.png
-  imageLicense: Ninguna para esta imagen, pero normalmente proporcionaría una aquí
+  background: /assets/images/placeholders/ArgentinaGBIF.png
+  imageLicense: CC-BY
   href: /acerca-de
   cta:
-  - text: Descargar informe
-    href: http://ejemplo.com
+  - text: Descargar informe de actividad
+    href: https://analytics-files.gbif.org/country/AR/GBIF_CountryReport_AR.pdf
     isPrimary: true
