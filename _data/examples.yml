@@ -5,15 +5,15 @@ couldBeAnyName:
   features:
     - title: ¿Cuáles datos se agregan?
       description: |      # requerido
-       Datos desde Argentina y datos alojados en instituciones extranjeras sobre Argentina.
-        href: /occurrence/search
+      Datos desde Argentina y datos alojados en instituciones extranjeras sobre Argentina.
+      href: /occurrence/search
       # img requerido
       background: /assets/images/placeholders/donde_solo.jpg
       imageLicense: CC-BY
       # categorías: [dibujos] # opcional
     - title: Tipos de datos # requerido
       description: |      # requerido
-        Datos provenientes de colecciones de ciencias naturales, reportes de biodiversidad, estudios ecológicos, hasta de iniciativas de ciencia ciudadana. 
+      Datos provenientes de colecciones de ciencias naturales, reportes de biodiversidad, estudios ecológicos, hasta de iniciativas de ciencia ciudadana. 
       background: /assets/images/placeholders/museos_solo.jpg
       imageLicense: CC-BY
     - title: Bibliografía # requerido
