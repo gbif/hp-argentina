@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nuevo Conjunto de Datos: Instituto de Botánica Darwinion"
+title: "Nuevo Conjunto de Datos: ArgentiNat"
 lang-ref: "New Dataset: Instituto de Botánica Darwinion"
 date: 2023-10-10
 categories: [conjuntos-de-datos, biodiversidad]
