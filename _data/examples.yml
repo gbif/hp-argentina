@@ -15,7 +15,7 @@ couldBeAnyName:
       description: |      # requerido
         Datos provenientes de colecciones de ciencias naturales, reportes de biodiversidad, estudios ecológicos, hasta de iniciativas de ciencia ciudadana. 
       href: /acerca-de
-      background: /assets/images/placeholders/placeholder2.png
+      background: /assets/images/placeholders/Museos.jpg
       imageLicense: Ninguna para esta imagen, pero normalmente proporcionaría una aquí
     - title: Bibliografía # requerido
       description: |      # requerido
