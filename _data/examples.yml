@@ -1,7 +1,7 @@
 couldBeAnyName:
   title: Lo que vas a encontrar en este portal
   description: |
-    Este portal agrega datos de Biodiversidad desde Argentina, ya sean datos provenientes de colecciones de ciencias naturales, reportes de biodiversidad, estudios ecológicos, hasta de iniciativas de ciencia ciudadana. Todos estos datos son de uso abierto, tienen licencias de uso Creative Commons y, si quieren ser reutilizados, tienen un DOI que facilita su correcta citación.
+    Este portal agrega datos de Biodiversidad desde Argentina de acceso abierto. Encontrarás imágenes, georreferencias y bibliografía asociada a los registros.
   features:
     - title: ¿Cuáles datos se agregan?
       description: |      # requerido
