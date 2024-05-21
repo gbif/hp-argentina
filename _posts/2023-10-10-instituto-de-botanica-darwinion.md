@@ -1,37 +1,25 @@
 ---
 layout: post
-title: "Nuevo Conjunto de Datos: ArgentiNat"
-lang-ref: "New Dataset: Instituto de Botánica Darwinion"
-date: 2023-10-10
-categories: [conjuntos-de-datos, biodiversidad]
-description: "Presentación del conjunto de datos del Instituto de Botánica Darwinion, un recurso valioso para la investigación en biodiversidad."
+title: "Conjunto de Datos de Ciencia Ciudadana: eBird y ArgentiNat"
+lang-ref: "New Dataset: Datos de Ciencia Ciudadana"
+date: 2024-05-20
+categories: [conjuntos-de-datos, ciencia ciudadana, eBird, ArgentiNat]
+description: "Los datos de biodiversiad que aporta la ciudadanía"
 background: "/assets/images/placeholders/placeholder1.png"
 ---
 
-# Nuevo Conjunto de Datos: Instituto de Botánica Darwinion
+# Conjuntos de Datos de Ciencia Ciudadana: el aporte ciudadano a la ciencia
 
-Nos complace anunciar la incorporación de un nuevo conjunto de datos a nuestro sitio web de biodiversidad, titulado "Instituto de Botánica Darwinion". Este conjunto de datos es un recurso valioso para investigadores y entusiastas interesados en el estudio de la diversidad y la evolución de las plantas.
+Los datos primarios de biodiversidad que son registrados en plataformas de ciencia ciudadana, también son agregados en este portal de Biodiversidad de Argentina. Provienen de dos iniciativas globales, una que se centra en las aves **eBird Argentina**, de la red **eBird** y otra que registra tanto flora, como fauna y funga **ArgentiNat**, de la red de **iNaturalist**.
 
-## Acerca del Instituto de Botánica Darwinion
+## Acerca de eBird Argentina
 
-El **Instituto de Botánica Darwinion** es una renombrada institución de investigación botánica ubicada en Argentina. El instituto se dedica al estudio de la diversidad, la evolución y la conservación de las plantas, con un enfoque particular en la flora de América del Sur. Ahora, su extensa colección de datos y especímenes botánicos está disponible para el público a través de nuestro sitio web.
+**eBird** es un proyecto de Ciencia Ciudadana iniciado en el 2002 por el Laboratorio de Ornitología de la Universidad de Cornell. El mismo tiene como finalidad conformar una red global de observadores/as de aves, quienes reportan observaciones, fotos y sonidos a una base de datos centralizada y de acceso libre. En Argentina es administrado por **Aves Argentinas**
 
-## Características Clave del Conjunto de Datos
+En el 2013, se estableció el portal **eBird Argentina**. Para mantener una plataforma confiable y con datos de buena calidad, eBird sumó a su equipo numerosos revisores y revisoras, además de personas que colaboran y editan, siendo la mayoría ornitólogos/as reconocidos/as tanto en su región como en el país. Gracias a su trabajo ad-honorem, la plataforma ha experimentado una mejoría sustancial en los últimos años.
 
-- **Registros de Especies**: El conjunto de datos contiene registros detallados de diversas especies de plantas, incluyendo información taxonómica, mapas de distribución y fotografías.
+## Acerca de ArgentiNat
 
-- **Publicaciones de Investigación**: Incluye una lista curada de publicaciones de investigación e informes producidos por el Instituto de Botánica Darwinion, proporcionando valiosos conocimientos sobre la biología y la ecología de las plantas.
-
-- **Datos de Conservación**: Evaluaciones del estado de conservación e información sobre especies de plantas en peligro y en peligro de extinción forman parte de este conjunto de datos, contribuyendo a los esfuerzos de conservación.
-
-## Cómo Acceder al Conjunto de Datos
-
-Los investigadores, educadores y cualquier persona interesada en explorar el conjunto de datos del Instituto de Botánica Darwinion pueden acceder a él visitando la sección de [Conjuntos de Datos](#) en nuestro sitio web. El conjunto de datos está disponible para su descarga en varios formatos para facilitar la investigación y el análisis.
-
-Animamos a la comunidad científica a aprovechar al máximo este valioso recurso para avanzar en nuestra comprensión de la diversidad de las plantas y contribuir a la conservación de la flora sudamericana.
-
-Manténgase atento a más actualizaciones y nuevas incorporaciones a nuestra base de datos de biodiversidad a medida que continuamos expandiendo y mejorando nuestras ofertas.
-
-Para consultas o oportunidades de colaboración relacionadas con el conjunto de datos del Instituto de Botánica Darwinion, por favor contáctenos en [contacto@email.com](mailto:contacto@email.com).
+**ArgentiNat** es el portal nacional de **iNaturalist** para Argentina. Es un proyecto de Ciencia Ciudadana iniciado en 2008 como un trabajo final de Master de tres estudiantes (Ken-ichi Ueda, Nate Agrin y Jessica Kline) de la School of Information de Berkeley. Con el paso del tiempo, el proyecto fue sumando colaboradores, dependió de la California Academy of Sciences y luego de la National Geographic. Desde 2023 se transformó en una organización sin fines de lucro. En Argentina, administrado por **Fundación Vida Silvestre Argentina** desde el año 2019. 
 
 Gracias por su continuo apoyo en nuestra misión de promover la investigación y la conservación de la biodiversidad.
