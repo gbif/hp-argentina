@@ -22,4 +22,4 @@ En el 2013, se estableció el portal **eBird Argentina**. Para mantener una plat
 
 **ArgentiNat** es el portal nacional de **iNaturalist** para Argentina. Es un proyecto de Ciencia Ciudadana iniciado en 2008 como un trabajo final de Master de tres estudiantes (Ken-ichi Ueda, Nate Agrin y Jessica Kline) de la School of Information de Berkeley. Con el paso del tiempo, el proyecto fue sumando colaboradores, dependió de la California Academy of Sciences y luego de la National Geographic. Desde 2023 se transformó en una organización sin fines de lucro. En Argentina, administrado por **Fundación Vida Silvestre Argentina** desde el año 2019. 
 
-Gracias por su continuo apoyo en nuestra misión de promover la investigación y la conservación de la biodiversidad.
+
