@@ -14,7 +14,7 @@ columns:
     description: | # Puede ser Markdown
     links:
      - text: Desarrollado por Anabela Plos
-       href: https://www.conicet.gov.ar/new_scp/detalle.php?id=35019&keywords=anabela%2Bplos&datos_academicos=yes
+#      href: https://www.conicet.gov.ar/new_scp/detalle.php?id=35019&keywords=anabela%2Bplos&datos_academicos=yes
       Este proyecto es de código abierto. Consulta `_data/footer.yml` para personalizar el pie de página.
   
 #  - name: CONTACTO
