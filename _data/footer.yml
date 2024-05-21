@@ -28,7 +28,7 @@ columns:
 #     - text: Argentina
 #     - href: '#nothing'
   
-    connectIcons: true
+#    connectIcons: true
 
   # EXAMPLE
   #- name: Group name
