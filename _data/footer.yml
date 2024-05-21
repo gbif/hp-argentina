@@ -23,9 +23,10 @@ columns:
      - text: Anabela Plos
      - text: plos@macn.gov.ar
        href: 'mailto:plos@macn.gov.ar?subject=Contacto Portal Biodiversidad.ar'
-     https://www.macnconicet.gob.ar/ Museo Argentino de Ciencias Naturales "Bernardino Rivadavia" MACN-CONICET
+     - text: Museo Argentino de Ciencias Naturales "Bernardino Rivadavia" MACN-CONICET 
        href: https://www.macnconicet.gob.ar/
-     - text: Argentina   
+     - text: Argentina
+     - href: '#nothing'
   
     connectIcons: true
 
