@@ -17,16 +17,16 @@ columns:
        href: https://www.conicet.gov.ar/new_scp/detalle.php?id=35019&keywords=anabela%2Bplos&datos_academicos=yes
       Este proyecto es de código abierto. Consulta `_data/footer.yml` para personalizar el pie de página.
   
-  - name: CONTACTO
-    description: | # Puede ser Markdown
-    links:
-     - text: Anabela Plos
-     - text: plos@macn.gov.ar
-       href: 'mailto:plos@macn.gov.ar?subject=Contacto Portal Biodiversidad.ar'
-     - text: Museo Argentino de Ciencias Naturales "Bernardino Rivadavia" MACN-CONICET 
-       href: https://www.macnconicet.gob.ar/
-     - text: Argentina
-     - href: '#nothing'
+#  - name: CONTACTO
+#    description: | # Puede ser Markdown
+#    links:
+#     - text: Anabela Plos
+#     - text: plos@macn.gov.ar
+#       href: 'mailto:plos@macn.gov.ar?subject=Contacto Portal Biodiversidad.ar'
+#     - text: Museo Argentino de Ciencias Naturales "Bernardino Rivadavia" MACN-CONICET 
+#       href: https://www.macnconicet.gob.ar/
+#     - text: Argentina
+#     - href: '#nothing'
   
     connectIcons: true
 
