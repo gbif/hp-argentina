@@ -11,25 +11,25 @@ couldBeAnyName:
       background: /assets/images/placeholders/Dnd.jpg
       imageLicense: CC-BY
       # categorías: [dibujos] # opcional
-    - title: Tipos de datos # requerido
+    - title: Nuestros publicadores # requerido
       description: |      # requerido
         Datos provenientes de colecciones de ciencias naturales, reportes de biodiversidad, estudios ecológicos, hasta de iniciativas de ciencia ciudadana. 
-      background: /assets/images/placeholders/museos_solo.jpg
+      background: /assets/images/placeholders/museo.jpg
       imageLicense: CC-BY
-    - title: Bibliografía # requerido
+    - title: Publicaciones # requerido
       description: |      # requerido
-        Además de los datos, encontrarás las publicaciones que han reutiliza y citado los datos.
-      background: //assets/images/placeholders/biblio_solo.jpg
+        Además de los datos, encontrarás las publicaciones que han reutilizado y citado los datos.
+      background: //assets/images/placeholders/biblio.jpg
       imageLicense: CC-BY
     - title: Licencias de Creative Commons  # requerido
       description: |      # requerido
         Todos los conjuntos de datos tienen una licencia de Creative Commons (CC0, CC-BY o CC-BY-NC) seleccionada por el publicador.
-      background: /assets/images/placeholders/cc_solo.jpg.png
+      background: /assets/images/placeholders/cc.jpg.png
       imageLicense: CC-BY
     - title: Citación # requerido
       description: |      # requerido
         Tanto los datos que son consultados como los conjuntos de datos, tienen asignado un Digital Object Identifier (DOI) .
-      background: /assets/images/placeholders/doi_solo.jpg
+      background: /assets/images/placeholders/doi.jpg
       imageLicense: CC-BY
 
 herbariumImageExample:
