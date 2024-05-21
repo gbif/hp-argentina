@@ -13,13 +13,13 @@ couldBeAnyName:
       # categorías: [dibujos] # opcional
     - title: Nuestros publicadores # requerido
       description: |      # requerido
-        Datos provenientes de colecciones de ciencias naturales, reportes de biodiversidad, estudios ecológicos, hasta de iniciativas de ciencia ciudadana. 
+        Datos provenientes de colecciones de ciencias naturales, reportes de biodiversidad, estudios ecológicos, hasta los datos generados por iniciativas de ciencia ciudadana. 
       href: /publisher/search   
       background: /assets/images/placeholders/museo.jpg
       imageLicense: CC-BY
     - title: Publicaciones # requerido
       description: |      # requerido
-        Además de los datos, encontrarás las publicaciones que han reutilizado y citado los datos.
+        Además de los datos, encontrarás las publicaciones científicas que han reutilizado y citado los datos. Podrás ver la cita completa de cada publicación, ordenadas por fecha.
       href: /literature/search
       background: /assets/images/placeholders/biblio.jpg
       imageLicense: CC-BY
