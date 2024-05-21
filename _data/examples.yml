@@ -31,7 +31,7 @@ couldBeAnyName:
     - title: Citación # requerido
       description: |      # requerido
         Tanto los datos que son consultados como los conjuntos de datos, tienen asignado un Digital Object Identifier (DOI). En la guía de citación, encontrarás cómo citar un dato, conjunto de datos hasta consultas particulares.
-      hfref: https://www.gbif.org/es/citation-guidelines   
+      href: https://www.gbif.org/es/citation-guidelines   
       background: /assets/images/placeholders/doi.jpg
       imageLicense: CC-BY
 
