@@ -2,7 +2,7 @@
 lang-ref: about
 title: Red Argentina de Datos y Colecciones Biológicas
 layout: heroImage
-description: "Consorcio argentino de datos abiertos de biodiversidad"
+description: "Consorcio de datos abiertos de biodiversidad"
 background: assets/images/placeholders/Armeria_hybreasil.jpg
 height: 80vh
 imageLicense: |
