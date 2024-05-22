@@ -5,7 +5,7 @@ couldBeAnyName:
   features:
     - title: ¿Cuáles datos se agregan?
       description: |      # requerido
-        Datos desde Argentina y datos alojados en instituciones extranjeras sobre Argentina.
+        Datos publicados _desde_ Argentina y datos alojados en instituciones extranjeras _sobre_ Argentina.
       href: /occurrence/search
       # img requerido
       background: /assets/images/placeholders/Dnd.jpg
@@ -30,7 +30,7 @@ couldBeAnyName:
       imageLicense: CC-BY
     - title: Citación # requerido
       description: |      # requerido
-        Tanto los datos que son consultados como los conjuntos de datos, tienen asignado un Digital Object Identifier (DOI). En la guía de citación, encontrarás cómo citar un dato, conjunto de datos hasta consultas personalizadas.
+        Tanto los datos que son consultados como los conjuntos de datos, tienen asignado un Digital Object Identifier (DOI). En la guía de citación, se detalla cómo citar un dato, conjunto de datos hasta consultas personalizadas.
       href: https://www.gbif.org/es/citation-guidelines   
       background: /assets/images/placeholders/doi.jpg
       imageLicense: CC-BY
