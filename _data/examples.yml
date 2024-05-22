@@ -19,7 +19,7 @@ couldBeAnyName:
       imageLicense: CC-BY
     - title: Publicaciones # requerido
       description: |      # requerido
-        Además de los datos, encontrarás las publicaciones científicas que han reutilizado y citado los datos. Podrás ver la cita completa de cada publicación, ordenadas por fecha.
+        Además de los datos, se aloja información sobre las publicaciones científicas que han reutilizado y citado los datos. Se muestran las citas completas de cada publicación, ordenadas por fecha. 
       href: /literature/search
       background: /assets/images/placeholders/biblio.jpg
       imageLicense: CC-BY
@@ -30,7 +30,7 @@ couldBeAnyName:
       imageLicense: CC-BY
     - title: Citación # requerido
       description: |      # requerido
-        Tanto los datos que son consultados como los conjuntos de datos, tienen asignado un Digital Object Identifier (DOI). En la guía de citación, encontrarás cómo citar un dato, conjunto de datos hasta consultas particulares.
+        Tanto los datos que son consultados como los conjuntos de datos, tienen asignado un Digital Object Identifier (DOI). En la guía de citación, encontrarás cómo citar un dato, conjunto de datos hasta consultas personalizadas.
       href: https://www.gbif.org/es/citation-guidelines   
       background: /assets/images/placeholders/doi.jpg
       imageLicense: CC-BY
@@ -39,7 +39,7 @@ herbariumImageExample:
   reverse: false
   title: "Nodo Argentino de GBIF"
   description: |      # requerido
-    Los datos presentes en este portal están alojados en el portal de la Global Biodiversity Information Facility, de la cual Argentina es miembro desde el año 2002. Gran cantidad de las principales instituciones de ciencia de Argentina publican sus datos, facilitando el acceso abierto de los mismos. Para conocer más, explora el informe de actividad 
+    Los datos presentes en este portal están alojados en el portal de la Global Biodiversity Information Facility, de la cual Argentina es miembro desde el año 2002. Gran cantidad de las principales instituciones dedicadas a la ciencia y a la conservación de Argentina publican sus datos, facilitando el acceso abierto de los mismos. Para conocer más, explora el informe de actividad 
   # img requerido
   background: /assets/images/placeholders/ArgentinaGBIF.png
   imageLicense: CC-BY
