@@ -34,7 +34,7 @@ A fines de la década de los 90's, los representantes de las principales colecci
 
 |     |      |
 |-----|------|
-|   - [Administración de Parques Nacionales](https://www.argentina.gob.ar/interior/ambiente/parquesnacionales)<img class="is-rounded" src="/assets/images/placeholders/APN.jpg" width="30"> </a>|
+|   - [Administración de Parques Nacionales](https://www.argentina.gob.ar/interior/ambiente/parquesnacionales) <img class="is-rounded" src="/assets/images/placeholders/APN.jpg" width="50">|
 
 |
 
