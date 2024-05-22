@@ -1,7 +1,7 @@
 couldBeAnyName:
   title: Lo que vas a encontrar en este portal
   description: |
-    Este portal agrega datos abiertos de Biodiversidad de Argentina, ya sean datos de instituciones argentinas como extranjeras. Encontrarás imágenes, georreferencias y bibliografía asociada a los registros.
+    Este portal agrega datos abiertos de biodiversidad de Argentina, ya sean datos de instituciones argentinas como extranjeras. Encontrarás imágenes, georreferencias y bibliografía asociada a los registros.
   features:
     - title: ¿Cuáles datos se agregan?
       description: |      # requerido
