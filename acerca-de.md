@@ -36,7 +36,8 @@ A fines de la década de los 90's, los representantes de las principales colecci
 |-----|------|
 | [Administración de Parques Nacionales (APN)](https://www.argentina.gob.ar/interior/ambiente/parquesnacionales)<img class="is-rounded" src="/assets/images/placeholders/APN.jpg" width="50"> |
 | [ArgentiNat](https://www.argentinat.org)<img class="is-rounded" src="/assets/images/placeholders/ArgentiNat.png" width="50"> |
-| [ArOBIS](https://www.arobis.cenpat-conicet.gob.ar/) <img class="is-rounded" src="assets/images/placeholders/Aves Argentinas.gif" width="120">  |
+| [ArOBIS](https://www.arobis.cenpat-conicet.gob.ar/) <img class="is-rounded" src="assets/images/placeholders/ArOBIS.png" width="120">  |
+|[Aves Argentinas](https://www.avesargentinas.org.ar/) <img class="is-rounded" src="assets/images/placeholders/Aves Argentinas.gif" width="120">  |
 | [Colección BAFC-H, InMiBo, Facultad de Ciencias Exactas - UBA](https://fungibafc.exactas.uba.ar/) <img class="is-rounded" src="assets/images/placeholders/BAFC-H.jpg" width="50">  |
 | [Banco de Germoplasma de Frutilla, INSIBIO-CONICET](http://insibio.org.ar/apoyo-a-la-investigacion/banco-de-germoplasma-de-frutilla/) <img class="is-rounded" src="assets/images/placeholders/BGFrutilla_INSIBIO.png" width="50">  |
 | [Banco de Germoplasma de Especies Nativas (BGEN), UNSa](http://ineah.unsa.edu.ar/bgen/) <img class="is-rounded" src="assets/images/placeholders/BGEN_germoplasma.jpg" width="50">  |
