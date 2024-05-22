@@ -23,7 +23,7 @@ La **RADyCB** promueve la generación, gestión, publicación y reutilización d
 Nuestros datos siguen el **estándar Darwin Core** y se rigen por los **Principios FAIR**, esto es, los datos son hallables, accesibles, interoperables y reusables.
 
 
-## Historia
+## Nuestra Historia
 A fines de la década de los 90's, los representantes de las principales colecciones de ciencias naturales, se reunieron y dieron origen a la **Red Nacional de Colecciones Biológicas (RNCB)**. Posteriormente, en el año 2002, en los salones del Museo Argentino de Ciencias Naturales (MACN) se realizaron las primeras reuniones para confirmor el **nodo argentino de la Global Biodiversity Information Facility (GBIF)**. En 2009, el Ministerio de Ciencia, Tecnología e Innovación Productiva introdujo el **Sistema Nacional de Datos Biológicos (SNDB)**, el cual permaneció en actividad hasta fines del año 2020. Posteriormente, los miembros del nodo argentino de GBIF continuaron su actividad, conformando la **Red Argentina de Datos y Colecciones Biológicas**.
 
 ---
@@ -36,6 +36,6 @@ A fines de la década de los 90's, los representantes de las principales colecci
 |-----|------|
 |   - [Administración de Parques Nacionales](https://www.argentina.gob.ar/interior/ambiente/parquesnacionales) <img class= "is-rounded" src="/assets/images/assets/images/placeholders/APN.jpg" width="30">
 
-
+|
 
 </div>
