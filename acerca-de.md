@@ -37,8 +37,8 @@ El **Portal de Biodiversidad de Argentina** está basado en la tecnología desar
 |     |      |
 |-----|------|
 
-| [ArgentiNat](https://www.argentinat.org)<img class="is-rounded" src="/assets/images/placeholders/ArgentiNat.png" width="50"> |
-| [ArOBIS](https://www.arobis.cenpat-conicet.gob.ar/) <img class="is-rounded" src="/assets/images/placeholders/ArOBIS.png" width="100">  |
+| [ArgentiNat](https://www.argentinat.org)<img class="is-rounded" src="/assets/images/placeholders/ArgentiNat.png" width="50">|
+| [ArOBIS](https://www.arobis.cenpat-conicet.gob.ar/) <img class="is-rounded" src="/assets/images/placeholders/ArOBIS.png" width="100">|
 
 
 </div>
