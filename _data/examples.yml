@@ -5,7 +5,7 @@ couldBeAnyName:
   features:
     - title: ¿Cuáles datos se agregan?
       description: |      # requerido
-        Datos publicados _desde_ Argentina y datos alojados en instituciones extranjeras _sobre_ Argentina.
+        Datos publicados *desde* Argentina y datos alojados en instituciones extranjeras *sobre* Argentina.
       href: /occurrence/search
       # img requerido
       background: /assets/images/placeholders/Dnd.jpg
