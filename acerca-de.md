@@ -28,4 +28,14 @@ A fines de la década de los 90's, los representantes de las principales colecci
 
 ---
 
+## Participantes
 
+<div class="integrantes" style="white-space: nowrap;" markdown="block">
+
+|     |      |
+|-----|------|
+| **Administración de Parques Nacionales** <br>&#x2022; https://www.argentina.gob.ar/interior/ambiente/parquesnacionales <img  src="assets/images/placeholders/APN.jpg" width="50"></a> |
+| **ArgentiNat** <br>&#x2022; https://www.argentinat.org <img src="assets/images/placeholders/ArgentiNat.png" width="50"> <img src="assets/images/placeholders/FVS.jpg" width="50"></a> |
+| **ArOBIS** <br>&#x2022; https://www.arobis.cenpat-conicet.gob.ar/  <img  src="assets/images/placeholders/ArOBIS.png" width="125"></a> |
+
+</div>
