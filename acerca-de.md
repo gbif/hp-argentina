@@ -26,7 +26,7 @@ La **RADyCB** promueve la generación, gestión, publicación y reutilización d
 A fines de la década de los 90’s, los representantes de las principales colecciones de ciencias naturales, se reunieron y dieron origen a la **Red Nacional de Colecciones Biológicas (RNCB)**. Posteriormente, en el año 2002, en los salones del Museo Argentino de Ciencias Naturales (MACN) se realizaron las primeras reuniones para participar de GBIF (Infraestructura Mundial de Información sobre Biodiversidad), y conformar el **Nodo Argentino de GBIF**. En 2009, el Ministerio de Ciencia, Tecnología e Innovación Productiva introdujo el **Sistema Nacional de Datos Biológicos (SNDB)**, el cual permaneció en actividad hasta fines del año 2020. Posteriormente, los miembros del nodo argentino de GBIF continuaron su actividad, conformando la **Red Argentina de Datos y Colecciones Biológicas**.
 
 ## Tecnología
-El **Portal de Biodiversidad de Argentina** está basado en la tecnología desarrollada por GBIF con su programa de **Hosted Portals** para los portales de los nodos nacionales, con diseño y contenido producido por la RADyCB.
+El **Portal de Biodiversidad de Argentina** está basado en la tecnología desarrollada por GBIF con su programa de **Portales Alojados** para los portales de los nodos nacionales, con diseño y contenido producido por la **RADyCB**.
 
 ---
 
