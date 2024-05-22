@@ -39,7 +39,7 @@ A fines de la década de los 90's, los representantes de las principales colecci
 | [ArOBIS](https://www.arobis.cenpat-conicet.gob.ar/) <img class="is-rounded" src="/assets/images/placeholders/ArOBIS.png" width="100">  |
 
 
-
+</div>
 
 
 
