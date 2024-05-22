@@ -28,4 +28,11 @@ A fines de la década de los 90's, los representantes de las principales colecci
 
 ---
 
+columns:
+  - name: Instituto de Botánica Darwinion (IBODA)
+    links:
+    href: /publisher/b6f05cf0-43ce-11d9-8439-b8a03c50a862
+    background: assets/images/placeholders/IBODA1.png
+    background: assets/images/placeholders/IBODA2.png
+
 
