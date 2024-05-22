@@ -28,7 +28,7 @@ A fines de la década de los 90's, los representantes de las principales colecci
 
 ---
 
-## Participantes
+## Miembros 
 
 <div class="integrantes" style="white-space: nowrap;" markdown="block">
 
