@@ -84,9 +84,10 @@ var siteConfig = {
         ]
       }
     },
-    highlightedFilters: ['q', 'countriesOfResearcher', 'countriesOfCoverage', 'year']
-  },
-  availableCatalogues: ['OCCURRENCE', 'DATASET', 'PUBLISHER'],
+    highlightedFilters: ['q', 'countriesOfResearcher', 'countriesOfCoverage', 'year'],
+    occurrenceSearchTabs: ['TABLE', 'MAP', 'GALLERY', 'DATASETS', 'CLUSTERS'],
+    availableCatalogues: ['OCCURRENCE', 'DATASET', 'PUBLISHER'],
+      },
   maps: {
     locale: 'es',
     defaultProjection: 'MERCATOR',
