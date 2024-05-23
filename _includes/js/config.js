@@ -85,9 +85,9 @@ var siteConfig = {
       }
     },
     highlightedFilters: ['q', 'countriesOfResearcher', 'countriesOfCoverage', 'year'],
-  },
-  availableCatalogues: ['OCCURRENCE', 'DATASET', 'PUBLISHER'],
-  },
+    },
+    availableCatalogues: ['OCCURRENCE', 'DATASET', 'PUBLISHER'],
+ 
   
   maps: {
     locale: 'es',
