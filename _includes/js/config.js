@@ -88,8 +88,6 @@ var siteConfig = {
   },
   availableCatalogues: ['OCCURRENCE', 'DATASET', 'PUBLISHER'],
   },
-  occurrenceSearchTabs: ['TABLE', 'MAP', 'GALLERY', 'DATASETS', 'CLUSTERS'],
-  },
   
   maps: {
     locale: 'es',
