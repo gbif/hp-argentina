@@ -3,12 +3,12 @@
 
 # Columns (the more you add, the narrower they will be)
 columns:
-  - name: Partners
+  - name: Agradecimientos
     links:
-    - text: Nombre del socio del proyecto 1
-      href: http://ejemplo.com
-    - text: Nombre del socio del proyecto 2
-      href: http://ejemplo.com
+    - text: Global Biodiversity Information Facility
+      href: http://www.gbif.org
+    - text: Florencia Grattarola - Biodiversidata
+      href: https://orcid.org/0000-0001-8282-5732
       
   - name: Créditos del sitio
     description: | # Can be Markdown
