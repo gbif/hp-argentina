@@ -12,7 +12,6 @@ background: "/assets/images/placeholders/eBird_iNat2.jpg"
 
 The primary biodiversity data that are recorded in citizen science platforms are also aggregated in this Biodiversity portal of Argentina. They come from two global initiatives, one that focuses on birds **eBird Argentina**, from the **eBird** network and another that records both flora, fauna and fungi **ArgentiNat**, from the **iNaturalist** network. 
 
-
 ## About eBird Argentina
 
 **eBird** is a Citizen Science project started in 2002 by the Cornell University Laboratory of Ornithology. Its purpose is to form a global network of bird watchers, who report observations, photos and sounds to a centralized and freely accessible database. In Argentina it is managed by **Aves Argentinas**
