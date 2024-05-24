@@ -5,7 +5,8 @@ layout: heroImage
 description: "Consorcio de datos abiertos de biodiversidad"
 background: assets/images/placeholders/Armeria_hybreasil.jpg
 height: 80vh
-imageLicense: *Armeria* Willd., observada en Argentina por hybreasil [CC-BY-NC](http://creativecommons.org/licenses/by-nc/4.0/) via [ArgentiNat](https://www.argentinat.org/observations/192394172)
+imageLicense: |
+  *Armeria* Willd., observada en Argentina por hybreasil [CC-BY-NC](http://creativecommons.org/licenses/by-nc/4.0/) via [ArgentiNat](https://www.argentinat.org/observations/192394172)
 toc: true
 composition:
   - type: heroImage # the block type
