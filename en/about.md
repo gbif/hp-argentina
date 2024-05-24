@@ -1,28 +1,27 @@
 ---
 lang-ref: about
-title: About
+title: Argentine Network of Biological Data and Collections
 layout: heroImage
-description: "Welcome to the Argentinian GBIF Node: Your Gateway to Argentina's Rich Biodiversity"
-background: /assets/images/placeholders/placeholder7.png
+description: "Biodiversity Open Data Consortium"
+background: assets/images/placeholders/Armeria_hybreasil.jpg
 imageLicense: |
-  None for this image, but it would normally go here. Markdown is allowed.
-height: 70vh
+  *Armeria* Willd., observada en Argentina por hybreasil [CC-BY-NC](http://creativecommons.org/licenses/by-nc/4.0/) via [ArgentiNat](https://www.argentinat.org/observations/192394172)
+height: 80vh
 toc: true
 ---
 
-## Mission
-At the heart of Argentina's natural beauty lies a treasure trove of biodiversity waiting to be discovered. The Argentinian GBIF Node is your virtual portal to this captivating world of flora and fauna. Our mission aligns seamlessly with the objectives of the National System of Biological Data (SNDB), as we strive to promote the exchange of biodiversity data, enhance accessibility and quality of this vital information, and champion best practices for the conservation and management of biological collections. Through virtual networks, outreach initiatives, and comprehensive training programs, we are dedicated to bringing Argentina's biodiversity into the global spotlight.
+## About us
+The **Argentine Network of Biological Data and Collections (RADyCB)** is made up of various institutions that produce primary biodiversity data and that are shared openly. These institutions have a very broad nature, from natural science museums, research institutes, different government organizations (municipal, provincial, national) to non-governmental organizations.
 
-## Funding
-The Argentinian GBIF Node is generously hosted by the National Scientific and Technical Research Council (CONICET) and supported by the Museo Argentino de Ciencias Naturales (MACN), a unit of CONICET. We owe our financial backbone to the unwavering support of the Secretariat of Government of Science, Technology, and Productive Innovation. Their contributions have been instrumental in ensuring the success of our biodiversity data initiatives.
+## Purpose 
+The **RADyCB** promotes the generation, management, publication and reuse of primary biodiversity data in an open and free manner. Our data follows the **Darwin Core standard** and is governed by the **FAIR Principles**, that is, the data is findable, accessible, interoperable and reusable. The data are transparently attributed to the institutions that produce and publish them, through the **Argentina Biodiversity Portal**.
 
-## History
-Our journey began in 2002, within the hallowed halls of the Museo Argentino de Ciencias Naturales (MACN). Since then, Argentina's commitment to the Global Biodiversity Information Facility (GBIF) has grown stronger. We established the National Network of Biological Collections (RNCB) and conducted extensive surveys of collections across our nation. In 2009, the Ministry of Science, Technology, and Productive Innovation (now the Secretariat of Government of Science, Technology, and Productive Innovation) introduced the National System of Biological Data (SNDB) and a customized GBIF data portal, marking a significant milestone in our journey.
+## Our history
+At the end of the 90's, representatives of the main natural science collections met and gave rise to the **National Network of Biological Collections (RNCB)**. Later, in 2002, in the halls of the Argentine Museum of Natural Sciences (MACN), the first meetings were held to participate in GBIF (Global Biodiversity Information Infrastructure), and form the **GBIF Argentine Node**. In 2009, the Ministry of Science, Technology and Productive Innovation introduced the **National Biological Data System (SNDB)**, which remained active until the end of 2020. Subsequently, the members of the Argentine GBIF node continued their activity , forming the **Argentine Network of Biological Data and Collections**.
 
-## Structure
-At the helm of our operations are dedicated professionals from CONICET, who manage and lead the way. SNDB unites Argentina's national data providers under one umbrella, forming a distributed network where data is curated by institutional providers and showcased through our national portal. Our ultimate goal is to harness the power of cutting-edge tools and standards while leveraging our resources to develop innovative solutions that meet the ever-evolving needs of biodiversity data enthusiasts.
+## Technology
+The **Argentina Biodiversity Portal** is based on the technology developed by GBIF with its [Hosted Portals] program (https://www.gbif.org/es/hosted-portals) with design and content produced by the **RADyCB**.
 
-## Explore, Learn, and Contribute
-Join us on a virtual expedition through the diverse landscapes of Argentina's biodiversity. Whether you are a data publisher, a museum curator, an educational institution, a ministry, an NGO, or a curious member of the public, this platform is your gateway to discover, learn, and contribute to the rich tapestry of life that thrives in our nation. Together, we can unveil the secrets of Argentina's biodiversity, one data point at a time.
+---
 
-Welcome to the Argentinian GBIF Node – where nature's wonders are just a click away.
+## Participants
