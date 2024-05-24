@@ -14,7 +14,7 @@ Nos complace presentar a nuestro nuevo colaborador en el campo de la biodiversid
 
 ## Acerca del Instituto Multidisciplinario sobre Ecosistemas y Desarrollo Sustentable
 
-El Instituto es un núcleo de investigación integrado por docentes/investigadores de las Facultades de Ciencias Exactas, Ciencias Veterinarias e Ingeniería que han manifestado su decisión de llevar a cabo sus tareas en forma conjunta y coordinada. Esta conformación es totalmente novedosa para la Universidad Nacional del Centro, aún cuando responde a la política de transversalidad planteada hace varios años para una mejor utilización de los recursos humanos y de equipamiento.
+El Instituto es un núcleo de investigación integrado por docentes/investigadores de las **Facultades de Ciencias Exactas, Ciencias Veterinarias e Ingeniería** que han manifestado su decisión de llevar a cabo sus tareas en forma conjunta y coordinada. Esta conformación es totalmente novedosa para la Universidad Nacional del Centro, aún cuando responde a la política de transversalidad planteada hace varios años para una mejor utilización de los recursos humanos y de equipamiento.
 
 
 Comprometido con el avance del conocimiento y la comprensión en estas áreas, el instituto es un punto focal para actividades de investigación que fomentan una relación armoniosa entre las sociedades humanas y el medio ambiente. Al integrar diversas perspectivas y conocimientos, el instituto pretende hacer contribuciones significativas al desarrollo sostenible de la región y más allá.
@@ -34,6 +34,6 @@ La visión del Instituto es ser referente en temáticas ambientales de la regió
 
 ## Oportunidades de Colaboración
 
-Esperamos con entusiasmo una fructífera colaboración con el Instituto Multidisciplinario sobre Ecosistemas y Desarrollo Sustentable, fomentando la colaboración y compartiendo conocimientos valiosos para avanzar en nuestra comprensión colectiva de la biodiversidad y la ciencia ambiental. Juntos, aspiramos a abordar desafíos apremiantes y promover la conservación y el uso sostenible de nuestros recursos naturales.
+Esperamos con entusiasmo una fructífera colaboración con el **Instituto Multidisciplinario sobre Ecosistemas y Desarrollo Sustentable**, fomentando la colaboración y compartiendo conocimientos valiosos para avanzar en nuestra comprensión colectiva de la biodiversidad y la ciencia ambiental. Juntos, aspiramos a abordar desafíos apremiantes y promover la conservación y el uso sostenible de nuestros recursos naturales.
 
 
