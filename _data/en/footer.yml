@@ -1,20 +1,26 @@
 # Columns (the more you add, the narrower they will be)
 columns:
-  - name: Partners
+  - name: Acknowledgment
     links:
-    - text: Name of project partner 1
-      href: http://example.com
-    - text: Name of project partner 2
-      href: http://example.com
+    - text: Global Biodiversity Information Facility
+      href: http://www.gbif.org
+    - text: Florencia Grattarola - Biodiversidata
+      href: https://orcid.org/0000-0001-8282-5732
 
-  - name: Code
+  - name: Site credits
     description: | # Can be Markdown
-      This project is open source. See `_data/footer.yml` to customize the footer.
+    links:
+    - text: Developed by Anabela Plos
+      href: https://www.conicet.gov.ar/new_scp/detalle.php?id=35019&keywords=anabela%2Bplos&datos_academicos=yes
+    - text: Museo Argentino de Ciencias Naturales "Bernardino Rivadavia" MACN-CONICET
+      href: https://www.macnconicet.gob.ar/
   
   - name: Contact
     description: | # Can be Markdown
-      Social icons links defined in `_config.yml`
-      * Street name
-      * 1234 postal code
-      * Country
+    links:
+    - text: plos@macn.gov.ar
+      href: 'mailto:plos@macn.gov.ar?subject=Contacto Portal'
+    - text: Argentina
+      href: '#nothing'
+    
     connectIcons: true
