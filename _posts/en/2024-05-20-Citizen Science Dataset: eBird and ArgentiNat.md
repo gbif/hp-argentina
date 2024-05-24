@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Citizen Science Dataset: eBird and ArgentiNat"
+title: "Citizen Science Dataset: eBird and ArgentiNat"
 lang-ref: "New Dataset: Citizen Science Data"
 date: 2024-05-20
 categories: [datasets, citizen science, eBird, ArgentiNat]
