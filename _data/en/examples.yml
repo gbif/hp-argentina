@@ -40,8 +40,7 @@ herbariumImageExample:
   title: "Gbif Argentine Node"
   description: |      # required
     The data present in this portal are hosted on the portal of the Global Biodiversity Information Facility, of which Argentina has been a member since 2002. A large number of the main institutions dedicated to science and conservation in Argentina publish their data, facilitating the open access to them. To learn more, explore the activity report 
-    # img required
-  background: /assets/images/placeholders/ArgentinaGBIF.pn
+  background: /assets/images/placeholders/ArgentinaGBIF.png
   imageLicense: CC-BY
   href: /about
   cta:
