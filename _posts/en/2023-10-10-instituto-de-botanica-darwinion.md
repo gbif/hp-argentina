@@ -1,38 +1,24 @@
 ---
 layout: post
-title: "New Dataset: Instituto de Botánica Darwinion"
-lang-ref: "New Dataset: Instituto de Botánica Darwinion"
-date: 2023-10-10
-categories: [datasets, biodiversity]
-description: "Introducing the Instituto de Botánica Darwinion dataset, a valuable resource for biodiversity research."
-background: "/assets/images/placeholders/placeholder1.png"
+title: ""Citizen Science Dataset: eBird and ArgentiNat"
+lang-ref: "New Dataset: Citizen Science Data"
+date: 2024-05-20
+categories: [datasets, citizen science, eBird, ArgentiNat]
+description: "The biodiversity data provided by citizens"
+background: "/assets/images/placeholders/eBird_iNat2.jpg"
 ---
 
-# New Dataset: Instituto de Botánica Darwinion
+## Citizen Science Data Sets: the citizen contribution to science
 
-We are excited to announce the addition of a new dataset to our biodiversity website, titled "Instituto de Botánica Darwinion." This dataset is a valuable resource for researchers and enthusiasts interested in the study of plant diversity and evolution.
+The primary biodiversity data that are recorded in citizen science platforms are also aggregated in this Biodiversity portal of Argentina. They come from two global initiatives, one that focuses on birds **eBird Argentina**, from the **eBird** network and another that records both flora, fauna and fungi **ArgentiNat**, from the **iNaturalist** network. 
 
-## About Instituto de Botánica Darwinion
 
-**Instituto de Botánica Darwinion** is a renowned botanical research institution located in Argentina. The institute is dedicated to the study of plant diversity, evolution, and conservation, with a particular focus on the flora of South America. Their extensive collection of botanical data and specimens is now available to the public through our website.
+## About eBird Argentina
 
-## Key Features of the Dataset
+**eBird** is a Citizen Science project started in 2002 by the Cornell University Laboratory of Ornithology. Its purpose is to form a global network of bird watchers, who report observations, photos and sounds to a centralized and freely accessible database. In Argentina it is managed by **Aves Argentinas**
 
-- **Species Records**: The dataset contains detailed records of various plant species, including taxonomic information, distribution maps, and photographs.
+In 2013, the **eBird Argentina** portal was established. To maintain a reliable platform with good quality data, eBird added numerous reviewers to its team, as well as people who collaborate and edit, the majority being recognized ornithologists both in their region and in the country. Thanks to his ad-honorem work, the platform has experienced substantial improvement in recent years.
 
-- **Research Publications**: It includes a curated list of research publications and reports produced by Instituto de Botánica Darwinion, providing valuable insights into plant biology and ecology.
+## About ArgentiNat
 
-- **Conservation Data**: Conservation status assessments and information about threatened and endangered plant species are part of this dataset, aiding in conservation efforts.
-
-## How to Access the Dataset
-
-Researchers, educators, and anyone interested in exploring the Instituto de Botánica Darwinion dataset can access it by visiting our website's [Datasets](#) section. The dataset is available for download in multiple formats to facilitate research and analysis.
-
-We encourage the scientific community to make the most of this valuable resource to advance our understanding of plant diversity and contribute to the conservation of South American flora.
-
-Stay tuned for more updates and new additions to our biodiversity database as we continue to expand and enhance our offerings.
-
-For inquiries or collaboration opportunities related to the Instituto de Botánica Darwinion dataset, please contact us at [contact@email.com](mailto:contact@email.com).
-
-Thank you for your continued support in our mission to promote biodiversity research and conservation.
-
+**ArgentiNat** is the national **iNaturalist** portal for Argentina. It is a Citizen Science project started in 2008 as a final Master's thesis by three students (Ken-ichi Ueda, Nate Agrin and Jessica Kline) from the Berkeley School of Information. As time went by, the project added collaborators, it depended on the California Academy of Sciences and then on National Geographic. Since 2023 it has been transformed into a non-profit organization. In Argentina, managed by **Fundación Vida Silvestre Argentina** since 2019.
