@@ -4,7 +4,7 @@ title: "Conjunto de Datos de Ciencia Ciudadana: eBird y ArgentiNat"
 lang-ref: "New Dataset: Datos de Ciencia Ciudadana"
 date: 2024-05-20
 categories: [conjuntos-de-datos, ciencia ciudadana, eBird, ArgentiNat]
-description: "Los datos de biodiversiad que aporta la ciudadanía"
+description: "Los datos de biodiversidad que aporta la ciudadanía"
 background: "/assets/images/placeholders/eBird_iNat2.jpg"
 ---
 
