@@ -13,7 +13,7 @@ columns:
     - text: Developed by Anabela Plos
       href: https://www.conicet.gov.ar/new_scp/detalle.php?id=35019&keywords=anabela%2Bplos&datos_academicos=yes
     - text: Museo Argentino de Ciencias Naturales "Bernardino Rivadavia" MACN-CONICET
-      href: https://www.macnconicet.gob.ar/
+      href: https://www.macnconicet.gob.ar/ 
   
   - name: Contact
     description: | # Can be Markdown
