@@ -2,12 +2,12 @@
 lang-ref: home
 layout: home
 klass: home
-title: Argentina's Biodiversity Hub
-description: "Exploring Argentina's Biodiversity: Unveiling Nature's Treasures, One Data Point at a Time"
-background:  /assets/images/placeholders/bird.jpeg # "/assets/images/placeholders/placeholder3.png"
+title: The Biodiversity Portal of Argentina
+description: "Argentina Biodiversity Data, from Museums to Citizen Science"
+background:  assets/images/placeholders/VenadoDeLasPampas_LucianoMassa.jpeg # "/assets/images/placeholders/placeholder3.png"
 imageLicense: |
-  Molothrus bonariensis (Gmelin, 1789) observed in Argentina by Nicolas Mazzini (licensed under http://creativecommons.org/licenses/by-nc/4.0/)
-height: 50vh
+  *Ozotoceros bezoarticus* Linneo, 1758 observado en Argentina por Luciano Massa [CC-BY-NC](http://creativecommons.org/licenses/by-nc/4.0/) via [ArgentiNat](https://www.argentinat.org/observations/192394172)
+height: 80vh
 cta:
   - text: Occurrences
     href: /en/occurrence/search
