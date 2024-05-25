@@ -30,7 +30,7 @@ El **Portal de Biodiversidad de Argentina** está basado en la tecnología desar
 
 ---
 
-## Participantes 
+## Publicadores 
 
 * [Administración de Parques Nacionales - APN](https://www.argentina.gob.ar/interior/ambiente/parquesnacionales)
 * [ArgentiNat](https://www.argentinat.org)
