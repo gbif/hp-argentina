@@ -36,8 +36,8 @@ El **Portal de Biodiversidad de Argentina** está basado en la tecnología desar
 * [ArgentiNat](https://www.argentinat.org)
 * [Nodo Argentino de Ocean Biodiversity Information System - ArOBIS](https://www.arobis.cenpat-conicet.gob.ar/)
 * [Aves Argentinas](https://www.avesargentinas.org.ar/) 
-* [Colección de Hongos secos de la Facultad de Ciencias Exactas y Naturales (UBA) BAFC-H](https://fungibafc.exactas.uba.ar/)
-* [Banco Germoplasma de Frutilla (UNT)- BGF](http://insibio.org.ar/apoyo-a-la-investigacion/banco-de-germoplasma-de-frutilla/)
+* [Colección de Hongos Secos, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires - BAFC-H](https://fungibafc.exactas.uba.ar/)
+* [Banco Germoplasma de Frutilla, Universidad Nacional de Tucumán - BGF](http://insibio.org.ar/apoyo-a-la-investigacion/banco-de-germoplasma-de-frutilla/)
 * [Banco de Germoplasma de Especies Nativas - BGEN](http://ineah.unsa.edu.ar/bgen/)
 * [Centro Científico Tecnológico CONICET Mendoza](https://www.mendoza.conicet.gov.ar/) 
 * [Centro de Ecología Aplicada del Litoral - CECOAL](https://cecoal.conicet.gov.ar/) 
@@ -50,4 +50,4 @@ El **Portal de Biodiversidad de Argentina** está basado en la tecnología desar
 * [EcoRegistros](https://www.ecoregistros.org/site/index.php) 
 
 
-</div>
+
