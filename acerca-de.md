@@ -32,17 +32,22 @@ El **Portal de Biodiversidad de Argentina** está basado en la tecnología desar
 
 ## Participantes 
 
-<div class="integrantes" style="white-space: nowrap;" markdown="block">
-
-|     |      |
-|-----|------|
-
-| [ArgentiNat](https://www.argentinat.org)<img class="is-rounded" src="/assets/images/placeholders/ArgentiNat.png" width="50">|
-| [ArOBIS](https://www.arobis.cenpat-conicet.gob.ar/) <img class="is-rounded" src="/assets/images/placeholders/ArOBIS.png" width="100">|
-
-
-</div>
-
+* [Administración de Parques Nacionales - APN](https://www.argentina.gob.ar/interior/ambiente/parquesnacionales)
+* [ArgentiNat](https://www.argentinat.org)
+* [Nodo Argentino de Ocean Biodiversity Information System - ArOBIS](https://www.arobis.cenpat-conicet.gob.ar/)
+* [Aves Argentinas](https://www.avesargentinas.org.ar/) 
+* [Colección de Hongos secos de la Facultad de Ciencias Exactas y Naturales (UBA) BAFC-H](https://fungibafc.exactas.uba.ar/)
+* [Banco Germoplasma de Frutilla (UNT)- BGF](http://insibio.org.ar/apoyo-a-la-investigacion/banco-de-germoplasma-de-frutilla/)
+* [Banco de Germoplasma de Especies Nativas - BGEN](http://ineah.unsa.edu.ar/bgen/)
+* [Centro Científico Tecnológico CONICET Mendoza](https://www.mendoza.conicet.gov.ar/) 
+* [Centro de Ecología Aplicada del Litoral - CECOAL](https://cecoal.conicet.gov.ar/) 
+* [Centro Nacional Patagónico - CENPAT](https://cenpat.conicet.gov.ar/)
+* [Centro de Estudios Parasitológicos y Vectores - CEPAVE](https://www.cepave.edu.ar/)
+* [Centro de Investigación Científica y de Transferencia Tecnológica a la Producción - CICYTTP](https://cicyttp.conicet.gov.ar/) 
+* [Centro de Investigaciones en Toxicología Ambiental y Agrobiotecnología del Comahue - CITAAC](https://citaac.conicet.gov.ar/)
+* [Centro Regional de Investigaciones Científicas y Transferencia Tecnológica de la Rioja - CRILAR](https://crilar.conicet.gov.ar/)
+* [eBird](https://ebird.org/region/AR)
+* [EcoRegistros](https://www.ecoregistros.org/site/index.php) 
 
 
 </div>
