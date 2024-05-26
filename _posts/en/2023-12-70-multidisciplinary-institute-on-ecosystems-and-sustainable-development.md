@@ -5,7 +5,7 @@ lang-ref: "New Publisher 2023-12-17"
 date: 2023-10-10
 categories: [publishers, biodiversity, research, Buenos Aires]
 description: "Introducing the Multidisciplinary Institute on Ecosystems and Sustainable Development, an institute dedicated to research in biodiversity and the environment."
-background: "assets/images/placeholders/LogoEcosistemasUnicen.png"
+background: "assets/images/placeholders/InstitutoMultiEcosistemas_c.jpg"
 ---
 
 # New Publisher: Multidisciplinary Institute on Ecosystems and Sustainable Development
