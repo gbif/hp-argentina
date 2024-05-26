@@ -14,13 +14,16 @@ Total Energies, empresa privada va a compartir datos sobre Argentina
 
 Nos complace presentar a nuestro nuevo colaborador [**Total Energies**](https://totalenergies.com/). Es una empresa francesa que produce y comercializa energías a escala global: petróleo y biocombustibles, gas natural y gases verdes, energías renovables y electricidad. 
 
+[Ver los conjuntos de datos publicados en GBIF](https://www.gbif.org/es/dataset/search?publishing_org=728e3362-3063-4a43-a6cf-71d61b50025b){:target="_blank" .button .is-primary}
+
 ## Datos primarios de biodiversidad que **Total Energies** pondrá en acceso abierto
 
 De mano del [Nodo Francés de GBIF](https://www.gbif.org/es/country/FR/summary), **Total Energies** se convierte en un [publicador de GBIF](https://www.gbif.org/es/publisher/728e3362-3063-4a43-a6cf-71d61b50025b) a partir del año 2019.
 
 **Total Energies** comparte datos primarios de biodiversidad que han sido generados durante sus trabajos en diferentes países, ya sea de material colectado, observaciones realizadas por personas o captadas mediante cámaras trampa.
 
-[Ver los conjuntos de datos publicados en GBIF](https://www.gbif.org/es/dataset/search?publishing_org=728e3362-3063-4a43-a6cf-71d61b50025b){:target="_blank" .button .is-primary}
+![Datos georreferenciados compartidos por Total Energies](assets/images/placeholders/MapaTotal.JPG)
+Datos georreferenciados compartidos por Total Energies (© OpenStreetMap contributors, © OpenMapTiles, GBIF)
 
 
 
