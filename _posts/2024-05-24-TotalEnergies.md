@@ -23,8 +23,7 @@ De mano del [Nodo Francés de GBIF](https://www.gbif.org/es/country/FR/summary),
 **Total Energies** comparte datos primarios de biodiversidad que han sido generados durante sus trabajos en diferentes países, ya sea de material colectado, observaciones realizadas por personas o captadas mediante cámaras trampa.
 
 <img class="is-rounded" src="/assets/images/placeholders/MapaTotal.JPG">
-Datos georreferenciados compartidos por Total Energies (© OpenStreetMap contributors, © OpenMapTiles, GBIF)
-
+_Datos georreferenciados compartidos por Total Energies (© OpenStreetMap contributors, © OpenMapTiles, GBIF)_
 
 ## Datos sobre Argentina
 
