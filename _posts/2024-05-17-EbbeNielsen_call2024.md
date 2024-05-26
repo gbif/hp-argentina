@@ -3,7 +3,7 @@ layout: post
 title: "El Reto Ebbe Nielsen 2024 busca proyectos innovadores con datos abiertos sobre biodiversidad"
 lang-ref: "Convocatoria 2024"
 date: 2024-05-17
-categories: [Convocatoria, premio, Ebbe Nielsen]
+categories: [convocatoria, premio, Ebbe Nielsen]
 description: "Esta convocatoria anual de GBIF ofrece una bolsa de incentivos por 20.000 euros. En su edición 2024, el Reto Ebbe Nielsen busca proyectos innovadores con datos abiertos sobre biodiversidad. **Recepción de propuestas hasta el 14 de agosto de 2024**"
 background: assets/images/placeholders/Ebbe-Nielsen.png
 imageLicense: |
