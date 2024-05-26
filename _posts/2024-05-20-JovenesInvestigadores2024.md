@@ -65,4 +65,4 @@ Se espera que los premiados reconozcan el apoyo de GBIF cuando difundan los resu
     5. Una carta oficial del mentor/supervisor o decano de la facultad del estudiante que certifique que el solicitante es un estudiante matriculado en el programa de postgrado de la universidad.
     6. Al menos una, y no más de tres, cartas de apoyo de investigadores establecidos activos en un campo que abarque e incorpore la informática de la biodiversidad (por ejemplo, genética, composición de especies y rasgos funcionales, biogeografía, ecología, sistemática, etc.)
 
-También puedes consultar la noticia en GBIF: [Se abre convocatoria para nominaciones al Premio GBIF a Investigadores Graduados 2024](https://www.gbif.org/es/news/0YedTUAf3Nk14JKZqBn0a/se-abre-convocatoria-para-nominaciones-al-premio-gbif-a-investigadores-graduados-2024), disponible en la página web de GBIF.
+También puede consultar la noticia en GBIF: [Se abre convocatoria para nominaciones al Premio GBIF a Investigadores Graduados 2024](https://www.gbif.org/es/news/0YedTUAf3Nk14JKZqBn0a/se-abre-convocatoria-para-nominaciones-al-premio-gbif-a-investigadores-graduados-2024)
