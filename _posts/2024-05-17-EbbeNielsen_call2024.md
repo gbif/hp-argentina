@@ -37,7 +37,7 @@ El siguiente resumen no constituye un reemplazo al [Reglamento oficial de la con
 
 Inscripción
 
-[Formulario de inscripción de la convocatoria 2024](https://bit.ly/ebbe-2024){:target="_blank" .button .is-primary}
+[Formulario de inscripción 2024](https://bit.ly/ebbe-2024){:target="_blank" .button .is-primary}
 
 
 ### Fecha límite
