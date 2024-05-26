@@ -24,7 +24,7 @@ Acceder al [Dataset: Datos de ocurrencia de triatominos presentes en Argentina d
 
 Las enfermedades transmitidas por vectores representan aproximadamente una cuarta parte de todas las enfermedades infecciosas. Aunque ha habido avances significativos en la lucha contra la malaria, actualmente estos avances se están deteniendo. Otras enfermedades, como las causadas por arbovirus como el dengue, chikungunya, fiebre amarilla y Zika, se están expandiendo, con un mayor número de casos y muertes. Existe una gran necesidad de campañas de movilización de datos para mejorar la cobertura de datos y ayudar a la investigación sobre estas enfermedades transmitidas por vectores y la salud humana. Para abordar esta necesidad, aquí presentamos una serie recopilada de artículos de publicación de datos relevantes para la investigación sobre vectores de enfermedades humanas transmitidas por vectores. [GigaScience Press](https://gigabytejournal.com/data-release-description) se ha asociado con [GBIF](https://www.gbif.org) y cuenta con el apoyo de [TDR, el Programa Especial de Investigación y Capacitación en Enfermedades Tropicales](https://tdr.who.int/), alojado en la [Organización Mundial de la Salud](https://www.who.int/) para publicar estos artículos. Todos los datos presentados se han compartido en GBIF.org con datos y metadatos de alta calidad para mejorar la cobertura de datos y ayudar a la investigación sobre enfermedades transmitidas por vectores y la salud humana.
 
-[Aquí se pueden ver todos los datapapers resultantes de esta convocatoria](https://doi.org/10.46471/GIGABYTE_SERIES_0002){:target="_blank" .button .is-primary}
+[Ver todos los datapapers seleccionados](https://doi.org/10.46471/GIGABYTE_SERIES_0002){:target="_blank" .button .is-primary}
 
 ---
 
