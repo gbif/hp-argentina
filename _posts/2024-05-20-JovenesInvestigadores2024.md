@@ -11,7 +11,9 @@ imageLicense: |
 
 ---
 
-_10 de junio de 2024 es la fecha límite para los estudiantes de posgrado en Argentina que quieran presentar su investigación, basada en datos sobre biodiversidad, a este estímulo internacional._
+El premio fomenta y reconoce la investigación y los descubrimientos innovadores en informática de la biodiversidad
+
+**10 de junio de 2024 es la fecha límite para los estudiantes de posgrado en Argentina que quieran presentar su investigación, basada en datos sobre biodiversidad, a este estímulo internacional**
 
 El Nodo Argentino de GBIF, en nombre del Secretariado, invita a presentar candidaturas para el [Premio Investigadores Graduados 2024](https://www.gbif.org/article/44SftFORi0A6mwGK4sgAKW/young-researchers-award). Este es un programa anual que tiene como objetivo **fomentar y reconocer la investigación y los descubrimientos innovadores en el ámbito de la informática de la biodiversidad**, llevados a cabo por estudiantes de postgrado, cuyos proyectos de maestría y doctorado se basan en los datos abiertos mediados por GBIF.
 
