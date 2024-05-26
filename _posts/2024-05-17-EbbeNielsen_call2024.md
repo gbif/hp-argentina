@@ -101,7 +101,7 @@ Un panel de jueces expertos en los campos científico, informático y tecnológi
 * [2019](https://www.gbif.org/es/news/2mixX9oDrJI2W3AqPFOxI3/)
 * [2018](https://www.gbif.org/es/news/4TuHBNfycgO4GEMOKkMi4u/)
 * [2016](https://gbif2016.devpost.com/submissions)
-* [2015](https://gbif.devpost.com/submissions)
+* [2015](https://www.gbif.org/es/news/824)
 
 
 Ver la convocatoria completa a la [edición 2024 del Reto Ebbe Nielsen](https://www.gbif.org/news/1uT1VeEizvCuXgwpicaciq/2024-ebbe-nielsen-challenge-seeks-open-data-innovations-for-biodiversity) en GBIF.
