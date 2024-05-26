@@ -104,4 +104,4 @@ Un panel de jueces expertos en los campos científico, informático y tecnológi
 * [2015](https://www.gbif.org/news/82409/winners-named-for-first-gbif-ebbe-nielsen-challenge)
 
 
-**Ver la convocatoria completa a la [edición 2024 del Reto Ebbe Nielsen](https://www.gbif.org/news/1uT1VeEizvCuXgwpicaciq/2024-ebbe-nielsen-challenge-seeks-open-data-innovations-for-biodiversity) en GBIF**
+Ver la convocatoria completa a la [edición 2024 del Reto Ebbe Nielsen](https://www.gbif.org/news/1uT1VeEizvCuXgwpicaciq/2024-ebbe-nielsen-challenge-seeks-open-data-innovations-for-biodiversity) en el sitio web de GBIF
