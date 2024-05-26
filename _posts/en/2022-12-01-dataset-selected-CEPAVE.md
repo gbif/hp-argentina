@@ -3,7 +3,7 @@ layout: post
 title: "CEPAVE data set was selected for the call _Vectors of human disease series_"
 description: _New data paper_
 date:  2022-12-01
-categories: ["CEPAVE", "datapaper", "GygaBite Journal"]
+categories: ["CEPAVE", "datapaper", "GygaBite Journal", "Chagas disease"]
 background: "assets/images/placeholders/CEPAVE2_c.jpg"
 ---
 
