@@ -19,7 +19,7 @@ Desde principios del mes de mayo de 2024, se encuentran disponibles más de **2 
 
 Es posible visualizar todas las imágenes desde este portal, haciendo click en el siguiente botón
 
-[Imágenes del  **Herbario CORD**  ](https://argentina.hp.gbif-staging.org/occurrence/search/?publishingOrg=7a6bdf66-ef5c-4a81-b731-2e328f4881eb&view=GALLERY){:target="_blank" .button .is-primary}
+[**Imágenes**](https://argentina.hp.gbif-staging.org/occurrence/search/?publishingOrg=7a6bdf66-ef5c-4a81-b731-2e328f4881eb&view=GALLERY){:target="_blank" .button .is-primary}
 
 
 _Se espera continuar con la carga de más imágenes en un futuro cercano_, indicó Marcelo Gritti, quien se encarga de la publicación de los conjuntos de datos del Herbario CORD
