@@ -42,8 +42,7 @@ Inscripción
 
 ### Fecha límite
 
-**14 de agosto de 2024, 20 horas (Argentina)
-
+*14 de agosto de 2024, 20 horas (Argentina)*
 
 ### Elegibilidad
 
