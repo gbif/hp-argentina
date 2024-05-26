@@ -4,7 +4,7 @@ title: "Conjunto de datos del CEPAVE fue seleccionado para la convocatoria _Vect
 description: _Nuevo data paper_
 date:  2022-12-01
 categories: ["CEPAVE", "datapaper", "GygaBite Journal", "Chagas disease"]
-background: "assets/images/placeholders/CEPAVE2_c.jpg"
+background: "assets/images/placeholders/CEPAVE2_c.jpg" 
 ---
 
 Equipo dedicado al estudio de Triatominos es reconocido en convocatoria de GBIF
