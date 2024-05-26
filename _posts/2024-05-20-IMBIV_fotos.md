@@ -4,7 +4,7 @@ title: "Novedades desde el Instituto Multidisciplinario de Biología Vegetal"
 description: _El IMBIV comparte las primeras imágenes de sus especímenes en GBIF_
 date:  2024-05-20
 categories: ["IMBIV", "imágenes", "ejemplares tipo"]
-background: assets/images/placeholders/IMBIV.jpg
+background: assets/images/placeholders/IMBIV_c.jpg
 ---
 
 
@@ -19,7 +19,7 @@ Desde principios del mes de mayo de 2024, se encuentran disponibles más de **2 
 
 Es posible visualizar todas las imágenes desde este portal, mediante el siguiente [link](https://argentina.hp.gbif-staging.org/occurrence/search/?publishingOrg=7a6bdf66-ef5c-4a81-b731-2e328f4881eb&view=GALLERY)
 
-_Se espera continuar con la carga de más imágenes en un futuro cercano_, indicó Marcelo Gritti, quien se encarga de la publicación de los conjuntos de datos del **Herbario CORD**
+_Se espera continuar con la carga de más imágenes en un futuro cercano_, indicó Marcelo Gritti, quien se encarga de la publicación de los conjuntos de datos del Herbario CORD
 
 
 ---
