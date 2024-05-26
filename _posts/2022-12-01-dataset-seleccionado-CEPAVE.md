@@ -4,7 +4,7 @@ title: "Conjunto de datos del CEPAVE fue seleccionado para _Vectors of human dis
 description: _Nuevo data paper_
 date:  2022-12-01
 categories: ["CEPAVE", "datapaper", "GygaBite Journal"]
-background: assets/images/placeholders/CEPAVE_c.jpg
+background: "assets/images/placeholders/CEPAVE_c.jpg"
 ---
 
 El [**Centro de Estudios Parasitológicos y de Vectores, CEPAVE**](https://www.cepave.edu.ar/) es un centro de referencia en investigación científica sobre especies de importancia sanitaria, socio-económica y agrícola, tales como parásitos, vectores de enfermedades y plagas, y aquellas relevantes para el control de organismos perjudiciales: patógenos (virus, bacterias, protistas, hongos), parasitoides y depredadores.
