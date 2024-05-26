@@ -4,7 +4,7 @@ title: "El Reto Ebbe Nielsen 2024 busca proyectos innovadores con datos abiertos
 lang-ref: "Convocatoria 2024"
 date: 2024-05-17
 categories: [Convocatoria, premio, Ebbe Nielsen]
-description: "Esta convocatoria anual de GBIF ofrece una bolsa de incentivos por 20.000 euros. En su edición 2024, el Reto Ebbe Nielsen busca proyectos innovadores con datos abiertos sobre biodiversidad. **Recepción de propuestas hasta el 14 de agosto de 2024**._"
+description: "Esta convocatoria anual de GBIF ofrece una bolsa de incentivos por 20.000 euros. En su edición 2024, el Reto Ebbe Nielsen busca proyectos innovadores con datos abiertos sobre biodiversidad. **Recepción de propuestas hasta el 14 de agosto de 2024**"
 background: assets/images/placeholders/Ebbe-Nielsen.png
 imageLicense: |
   Foto: Atlantic warty octopus, _[Scaeurgus unicirrhus (Delle Chiaje, 1841)](https://www.gbif.org/es/species/9385151)_{:target="_blank"} from Cefalopodi viventi nel Golfo di Napoli (sistematica) 1986 via [Biodiversity Heritage Library](https://flic.kr/p/aixn3v){:target="_blank"}, no rights reserved under [CC0](https://creativecommons.org/publicdomain/mark/1.0/){:target="_blank"}.
