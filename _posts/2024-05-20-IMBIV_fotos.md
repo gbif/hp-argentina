@@ -7,6 +7,7 @@ categories: ["IMBIV", "imágenes", "ejemplares tipo"]
 background: assets/images/placeholders/IMBIV_c.jpg
 ---
 
+El IMBIV comparte las primeras imágenes de sus especímenes en GBIF
 
 El [**Instituto Multidisciplinario de Biología Vegetal - IMBIV**](https://museobotanico.unc.edu.ar/herbario) es un centro de investigación creado en 1983, mediante un convenio entre el CONICET y la Universidad Nacional de Córdoba. Entre sus dependencias se encuentra el **Herbario CORD**.
 
