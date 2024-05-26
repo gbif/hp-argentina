@@ -5,7 +5,7 @@ lang-ref: "Convocatoria 2024"
 date: 2024-05-17
 categories: [Convocatoria, premio, Ebbe Nielsen]
 description: "Esta convocatoria anual de GBIF ofrece una bolsa de incentivos por 20.000 euros. En su edición 2024, el Reto Ebbe Nielsen busca proyectos innovadores con datos abiertos sobre biodiversidad. **Recepción de propuestas hasta el 14 de agosto de 2024**._"
-background: /assets/images/noticias_eventos/2024/2024-04-22-reto-Ebbe-Nielsen.png
+background: assets/images/placeholders/Ebbe-Nielsen.png
 imageLicense: |
   Foto: Atlantic warty octopus, _[Scaeurgus unicirrhus (Delle Chiaje, 1841)](https://www.gbif.org/es/species/9385151)_{:target="_blank"} from Cefalopodi viventi nel Golfo di Napoli (sistematica) 1986 via [Biodiversity Heritage Library](https://flic.kr/p/aixn3v){:target="_blank"}, no rights reserved under [CC0](https://creativecommons.org/publicdomain/mark/1.0/){:target="_blank"}.
   
@@ -21,27 +21,14 @@ La recepción de propuestas cierra el 14 de agosto de 2024. Hasta esta fecha per
 
 Los ganadores serán anunciados en septiembre de este año en la 31ª reunión de la Junta Directiva de GBIF, en Porto (Portugal). 
 
-## Acerca del Instituto Multidisciplinario sobre Ecosistemas y Desarrollo Sustentable
+## ¿Qué se puede crear?: inspiración para las propuestas
 
-El Instituto es un núcleo de investigación integrado por docentes/investigadores de las Facultades de Ciencias Exactas, Ciencias Veterinarias e Ingeniería que han manifestado su decisión de llevar a cabo sus tareas en forma conjunta y coordinada. Esta conformación es totalmente novedosa para la Universidad Nacional del Centro, aún cuando responde a la política de transversalidad planteada hace varios años para una mejor utilización de los recursos humanos y de equipamiento.
+Se espera que las propuestas brinden **soluciones prácticas y pragmáticas para la red de GBIF**, pueden ser nuevas aplicaciones, métodos de visualización, flujos de trabajo o análisis, o el desarrollo a partir de herramientas o características existentes; al tiempo que avanzan en la informática de la biodiversidad y la gestión de datos de biodiversidad, en relación con la misión y el [plan estratégico de GBIF](https://www.gbif.org/es/strategic-plan){:target="_blank"}.
 
+**Una forma de encontrar ideas**, problemas o abordajes cercanos a los que se desee seguir, es revisar los [ganadores de las ediciones anteriores](https://www.gbif.org/news/1uT1VeEizvCuXgwpicaciq/2024-ebbe-nielsen-challenge-seeks-open-data-innovations-for-biodiversity#previous){:target="_blank"}, así como sus propuestas.
 
-Comprometido con el avance del conocimiento y la comprensión en estas áreas, el instituto es un punto focal para actividades de investigación que fomentan una relación armoniosa entre las sociedades humanas y el medio ambiente. Al integrar diversas perspectivas y conocimientos, el instituto pretende hacer contribuciones significativas al desarrollo sostenible de la región y más allá.
+**Las propuestas pueden tomar múltiples formas**, las que los participantes elijan desarrollar, como nuevas aplicaciones, visualizaciones, métodos, flujos de trabajo o análisis a menudo, (pero no siempre) que hacen uso de la [API de GBIF](https://www.gbif.org/es/developer/summary){:target="_blank"} para acceder a los datos. Las propuestas también pueden plantear la expansión de las capacidades o construir a partir de herramientas existentes disponibles en la red de GBIF. 
 
-## Misión y Visión
+**Las propuestas deben beneficiar a múltiples grupos de interés**, incluidos los usuarios, publicadores y administradores de datos. Los interesados en participar pueden revisar la [estrategia de comunicaciones de GBIF](https://www.gbif.org/es/document/80926){:target="_blank"} para ver cómo la organización caracteriza a sus audiencias.
 
-La misión del instituto es abordar cuestiones ambientales, enfatizando la conservación de los ecosistemas, la utilización sostenible de los recursos y el bienestar de la comunidad a través de un enfoque interdisciplinario inspirado en el concepto de "Un mundo, una salud".
-
-La visión del Instituto es ser referente en temáticas ambientales de la región, constituyéndose como un espacio integrador de múltiples saberes y capacidades aplicables a cuestiones vinculadas con el ambiente y promoviendo una concepción superadora del desarrollo humano.
-
-## Objetivos generales
-
-* La conservación del ambiente, entendiendo por ello su preservación, producción y/o uso sostenible, restauración y/o mejoramiento.
-* La resolución de problemáticas ambientales, haciendo hincapié en el funcionamiento y valores de los ecosistemas así como en el impacto de las actividades humanas sobre el mismo.
-* La promoción de la salud de los seres vivos, particularmente en relación a la modificación del ambiente.
-
-
-## Oportunidades de Colaboración
-
-Esperamos con entusiasmo una fructífera colaboración con el Instituto Multidisciplinario sobre Ecosistemas y Desarrollo Sustentable, fomentando la colaboración y compartiendo conocimientos valiosos para avanzar en nuestra comprensión colectiva de la biodiversidad y la ciencia ambiental. Juntos, aspiramos a abordar desafíos apremiantes y promover la conservación y el uso sostenible de nuestros recursos naturales.
 
