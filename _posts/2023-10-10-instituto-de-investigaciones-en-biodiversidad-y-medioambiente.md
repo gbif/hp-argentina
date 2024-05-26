@@ -5,7 +5,7 @@ lang-ref: "New Publisher 2023-12-17"
 date: 2023-12-17
 categories: [publicadores, biodiversidad, investigación, Buenos Aires]
 description: "Presentamos al Instituto Multidisciplinario sobre Ecosistemas y Desarrollo Sustentable, un instituto dedicado a la investigación en biodiversidad y medio ambiente."
-background: "assets/images/placeholders/LogoEcosistemasUnicen.png"
+background: "assets/images/placeholders/InstitutoMultiEcosistemas_c.jpg"
 ---
 
 # Nuevo Publicador: Instituto Multidisciplinario sobre Ecosistemas y Desarrollo Sustentable
