@@ -8,6 +8,8 @@ description: "Presentamos al Instituto Multidisciplinario sobre Ecosistemas y De
 background: "assets/images/placeholders/InstitutoMultiEcosistemas_c.jpg"
 ---
 
+Un instituto dedicado a la investigación en biodiversidad y medio ambiente
+
 # Nuevo Publicador: Instituto Multidisciplinario sobre Ecosistemas y Desarrollo Sustentable
 
 Nos complace presentar a nuestro nuevo colaborador en el campo de la biodiversidad y la investigación ambiental, el **Instituto Multidisciplinario sobre Ecosistemas y Desarrollo Sustentable**. Es un centro de investigación afiliado a la Universidad Nacional del Centro de la Provincia de Buenos Aires. 
