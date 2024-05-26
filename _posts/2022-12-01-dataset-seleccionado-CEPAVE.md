@@ -7,7 +7,7 @@ categories: ["CEPAVE", "datapaper", "GygaBite Journal"]
 background: "assets/images/placeholders/CEPAVE2_c.jpg"
 ---
 
-GBIF abre una nueva convocatoria para datapapers relacionados con salud humana
+Equipo dedicado al estudio de Triatominos es reconocido en convocatoria de GBIF
 
 El [**Centro de Estudios Parasitológicos y de Vectores, CEPAVE**](https://www.cepave.edu.ar/) es un centro de referencia en investigación científica sobre especies de importancia sanitaria, socio-económica y agrícola, tales como parásitos, vectores de enfermedades y plagas, y aquellas relevantes para el control de organismos perjudiciales: patógenos (virus, bacterias, protistas, hongos), parasitoides y depredadores.
 
