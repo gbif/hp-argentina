@@ -3,7 +3,7 @@ layout: post
 title: "News from the Multidisciplinary Institute of Plant Biology"
 description: _The IMBIV shares the first images of its specimens in GBIF_
 date:  2024-05-20
-categories: ["IMBIV", "images, "type specimens"]
+categories: ["IMBIV", "images", "type specimens"]
 background: assets/images/placeholders/IMBIV_c.jpg
 ---
 
