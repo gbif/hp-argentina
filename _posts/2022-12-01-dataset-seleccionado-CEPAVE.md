@@ -26,4 +26,4 @@ Las enfermedades transmitidas por vectores representan aproximadamente una cuart
 
 ---
 
-https://www.gbif.org/news/3Dlc7jJ260Q9wjkbViSzGX/extended-second-call-for-data-papers-describing-datasets-on-vectors-of-human-diseases
+Consultar la noticia en GBIF: [Second call for data papers describing datasets on vectors of human diseases](https://www.gbif.org/news/3Dlc7jJ260Q9wjkbViSzGX/extended-second-call-for-data-papers-describing-datasets-on-vectors-of-human-diseases), disponible en la página web de GBIF.
