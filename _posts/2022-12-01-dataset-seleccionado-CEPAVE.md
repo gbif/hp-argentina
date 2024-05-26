@@ -3,7 +3,7 @@ layout: post
 title: "Conjunto de datos del CEPAVE fue seleccionado para la convocatoria _Vectors of human disease series_"
 description: _Nuevo data paper_
 date:  2022-12-01
-categories: ["CEPAVE", "datapaper", "GygaBite Journal", "Chagas disease"]
+categories: ["CEPAVE", "datapaper", "GygaBite Journal", "Enfermedad de Chagas"]
 background: "assets/images/placeholders/CEPAVE2_c.jpg" 
 ---
 
