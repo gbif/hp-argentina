@@ -18,6 +18,8 @@ composition:
 ## Quiénes somos
 La **Red Argentina de Datos y Colecciones Biológicas (RADyCB)** está conformada por diversas instituciones que producen datos primarios de biodiversidad y que son compartidos de forma abierta. Estas instituciones tienen una naturaleza muy amplia, desde museos de ciencias naturales, institutos de investigación, diferentes organizaciones gubernamentales (municipales, provinciales, nacionales) hasta organizaciones no gubernamentales.
 
+<img class="is-rounded" src="/assets/images/placeholders/Todas.jpg">
+
 ## Finalidad 
 La **RADyCB** promueve la generación, gestión, publicación y reutilización de datos primarios de biodiversidad de forma abierta y gratuita. Nuestros datos siguen el **estándar Darwin Core** y se rigen por los **Principios FAIR**, esto es, los datos son hallables, accesibles, interoperables y reusables. Los datos son atribuidos de manera transparente a las instituciones que los producen y publican, a través del **Portal de Biodiversidad de Argentina**.
 
