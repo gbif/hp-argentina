@@ -13,6 +13,8 @@ toc: true
 ## About us
 The **Argentine Network of Biological Data and Collections (RADyCB)** is made up of various institutions that produce primary biodiversity data and that are shared openly. These institutions have a very broad nature, from natural science museums, research institutes, different government organizations (municipal, provincial, national) to non-governmental organizations.
 
+<img class="is-rounded" src="/assets/images/placeholders/Todas.jpg">
+
 ## Purpose 
 The **RADyCB** promotes the generation, management, publication and reuse of primary biodiversity data in an open and free manner. Our data follows the **Darwin Core standard** and is governed by the **FAIR Principles**, that is, the data is findable, accessible, interoperable and reusable. The data are transparently attributed to the institutions that produce and publish them, through the **Argentina Biodiversity Portal**.
 
