@@ -2,7 +2,7 @@
 lang-ref: home
 layout: home
 klass: home
-title: The Biodiversity Portal of Argentina
+title: The Biodiversity Data Portal of Argentina
 description: "Argentina Biodiversity Data, from Museums to Citizen Science"
 background:  assets/images/placeholders/VenadoDeLasPampas_LucianoMassa.jpeg # "/assets/images/placeholders/placeholder3.png"
 imageLicense: |
