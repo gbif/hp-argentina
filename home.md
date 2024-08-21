@@ -2,7 +2,7 @@
 lang-ref: home
 layout: home
 klass: home
-title: "El Portal de Biodiversidad de Argentina"
+title: "El Portal Datos de Biodiversidad de Argentina"
 description: "Datos de Biodiversidad de Argentina, desde Museos a Ciencia Ciudadana"
 background:  assets/images/placeholders/VenadoDeLasPampas_LucianoMassa.jpeg
 imageLicense: |
