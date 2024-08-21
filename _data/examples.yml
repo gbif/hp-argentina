@@ -3,7 +3,7 @@ couldBeAnyName:
   description: |
     Este portal agrega datos abiertos de biodiversidad de Argentina, ya sean datos de instituciones argentinas como extranjeras. Encontrarás imágenes, georreferencias y bibliografía asociada a los registros.
   features:
-    - title: ¿Cuáles datos se agregan?
+    - title: ¿Qué datos se agregan?
       description: |      # requerido
         Datos publicados *desde* Argentina y datos alojados en instituciones extranjeras *sobre* Argentina.
       href: /occurrence/search
@@ -39,7 +39,7 @@ herbariumImageExample:
   reverse: false
   title: "Nodo Argentino de GBIF"
   description: |      # requerido
-    Los datos presentes en este portal están alojados en el portal de la Global Biodiversity Information Facility, de la cual Argentina es miembro desde el año 2002. Gran cantidad de las principales instituciones dedicadas a la ciencia y a la conservación de Argentina publican sus datos, facilitando el acceso abierto de los mismos. Para conocer más, explora el informe de actividad 
+    Los datos presentes en este portal están alojados en el portal de la de la Infraestructura Mundial de Información sobre Biodiversidad (Global Biodiversity Information Facility), de la cual Argentina es miembro desde el año 2002. Gran cantidad de las principales instituciones dedicadas a la ciencia y a la conservación de Argentina publican sus datos, facilitando el acceso abierto de los mismos. Para conocer más, explora el informe de actividad 
   # img requerido
   background: /assets/images/placeholders/ArgentinaGBIF.png
   imageLicense: CC-BY
