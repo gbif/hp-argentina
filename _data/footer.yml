@@ -18,10 +18,8 @@ columns:
     - text: Museo Argentino de Ciencias Naturales "Bernardino Rivadavia" MACN-CONICET
       href: https://www.macnconicet.gob.ar/
     - text: Foto de portada: Luciano Massa CC-BY-NC
-      href: https://www.argentinat.org/observations/192394172
     - text: Foto Acerca de: Jonathan Hamnett CC-BY-NC 
-      href: https://www.argentinat.org/observations/192444998
-
+    
     - name: Contacto
     description: | # Can be Markdown
     links:
