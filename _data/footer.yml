@@ -9,6 +9,7 @@ columns:
       href: http://www.gbif.org
     - text: Florencia Grattarola - Biodiversidata
       href: https://orcid.org/0000-0001-8282-5732
+
       
   - name: Créditos del sitio
     description: | # Can be Markdown
@@ -17,6 +18,7 @@ columns:
       href: https://www.conicet.gov.ar/new_scp/detalle.php?id=35019&keywords=anabela%2Bplos&datos_academicos=yes
     - text: Museo Argentino de Ciencias Naturales Bernardino Rivadavia
       href: https://www.macnconicet.gob.ar/
+
 
     - name: Contacto
     description: | # Can be Markdown
