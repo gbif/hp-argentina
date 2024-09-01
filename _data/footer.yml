@@ -17,9 +17,7 @@ columns:
       href: https://www.conicet.gov.ar/new_scp/detalle.php?id=35019&keywords=anabela%2Bplos&datos_academicos=yes
     - text: Museo Argentino de Ciencias Naturales "Bernardino Rivadavia" MACN-CONICET
       href: https://www.macnconicet.gob.ar/
-    - text: Foto Portada por Luciano Massa (bajo licencia CC-BY-NC)
-    - text: Foto Acerca de por Jonathan Hamnett (bajo licencia CC-BY-NC)
-    
+
     - name: Contacto
     description: | # Can be Markdown
     links:
