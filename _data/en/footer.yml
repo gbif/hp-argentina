@@ -6,6 +6,10 @@ columns:
       href: http://www.gbif.org
     - text: Florencia Grattarola - Biodiversidata
       href: https://orcid.org/0000-0001-8282-5732
+    - text: Luciano Massa - Cover photo - CC-BY-NC
+      href: https://www.argentinat.org/people/lucianomassa      
+    - text: Jonathan Hamnett - About photo - CC-BY-NC
+      href: https://www.argentinat.org/people/hybreasil
 
   - name: Site credits
     description: | # Can be Markdown
