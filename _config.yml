@@ -24,7 +24,7 @@ email: your-email@example.com
 description: >- # this means to ignore newlines (until baseurl:)
    Biodiversidad.ar es el Consorcio de Datos de Biodiversidad de Argentina
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://argentina.hp.gbif.org/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://biodiversidad.ar/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: NodoGbifAR # if you have an account you want to link to. Else comment this line out
 instagram_username: gbif_argentina
 # github_username:  yourname # if you have an account you want to link to. Else comment this line out
