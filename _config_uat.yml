@@ -1,4 +1,4 @@
-url: "https://argentina.hp.gbif-uat.org/" # the base hostname & protocol for your staging site, e.g. https://hp-example.gbif-uat.org
+url: "https://argentina.hp.gbif-uat.org/" # the base hostname & protocol for your staging site, e.g. https://example.hp.gbif-uat.org
 
 useSharedLibrary: true # Use the new component library
 updateTranslationMenuOnWidgetEvents: true # Notice that this feature requires urls for widgets to be the same across languages (except for a language prefix)
